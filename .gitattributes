@@ -1,0 +1,2 @@
+imdb/name.basics.tsv.gz filter=lfs diff=lfs merge=lfs -text
+imdb/title.akas.tsv.gz filter=lfs diff=lfs merge=lfs -text
