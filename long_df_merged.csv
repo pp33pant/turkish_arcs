@@ -1,0 +1,802 @@
+Original Title,types,variable_index,country,date,types_recode,continent,cultural distance,distance_to_ankara
+20 Dakika,Fall–Rise,1,Mexico,"January 1, 2013",1,North America,0.4145935,0.9646369383912728
+20 Dakika,Fall–Rise,3,Hungary,"July 22, 2013",1,Europe,0.5444989,0.1137859404272508
+20 Dakika,Fall–Rise,6,Sweden,"January 13, 2014",1,Europe,1.0,0.1762383532841106
+20 Dakika,Fall–Rise,7,United Arab Emirates,"September 17, 2020",1,Asia,0.01,0.1912597721024848
+46 Yok Olan,Fall–Rise–Fall,2,Germany,"June 30, 2017",2,Europe,0.7842516,0.1673367793261102
+46 Yok Olan,Fall–Rise–Fall,3,Singapore,"June 30, 2017",2,Asia,0.230165,0.583682754347835
+46 Yok Olan,Fall–Rise–Fall,4,Philippines,"October 5, 2017",2,Asia,0.1298888,0.6621582412275726
+50M2,Fall–Rise,1,United Arab Emirates,"January 27, 2021",1,Asia,0.01,0.1912597721024848
+50M2,Fall–Rise,2,Argentina,"January 27, 2021",1,South America,0.4332813,0.8508386475808689
+50M2,Fall–Rise,3,Australia,"January 27, 2021",1,Oceania,0.7100703,1.0
+50M2,Fall–Rise,6,Germany,"January 27, 2021",1,Europe,0.7842516,0.1673367793261102
+50M2,Fall–Rise,7,Egypt,"January 27, 2021",1,Africa,0.3713828,0.0723007485139661
+50M2,Fall–Rise,4,Brazil,"January 27, 2021",1,South America,0.3063638,0.7086143745052557
+50M2,Fall–Rise,10,United Kingdom,"January 27, 2021",1,Europe,0.6967751,0.2524422168955692
+50M2,Fall–Rise,11,Israel,"January 27, 2021",1,Asia,0.01,0.0612838137293157
+50M2,Fall–Rise,12,India,"January 27, 2021",1,Asia,0.0793723,0.33051190066537
+50M2,Fall–Rise,13,Italy,"January 27, 2021",1,Europe,0.4192803,0.1478157140319547
+50M2,Fall–Rise,14,Japan,"January 27, 2021",1,Asia,0.6066421,0.7721366121005522
+50M2,Fall–Rise,15,South Korea,"January 27, 2021",1,Asia,0.7258395,0.6799317781731508
+50M2,Fall–Rise,16,Mexico,"January 27, 2021",1,North America,0.4145935,0.9646369383912728
+50M2,Fall–Rise,17,Netherlands,"January 27, 2021",1,Europe,0.8124272,0.2210696091685343
+50M2,Fall–Rise,18,Philippines,"January 27, 2021",1,Asia,0.1298888,0.6621582412275726
+50M2,Fall–Rise,19,Poland,"January 27, 2021",1,Europe,0.324006,0.1233551371653434
+50M2,Fall–Rise,20,Singapore,"January 27, 2021",1,Asia,0.230165,0.583682754347835
+50M2,Fall–Rise,22,United States,"January 27, 2021",1,North America,0.534117,0.7936160860974052
+50M2,Fall–Rise,5,Canada,"January 27, 2021",1,North America,0.5667968,0.7849206074012037
+50M2,Fall–Rise,8,Spain,"January 27, 2021",1,Europe,0.7732433,0.2640219694512341
+50M2,Fall–Rise,9,France,"January 27, 2021",1,Europe,0.6693177,0.2295492047563604
+Adi Mutluluk,Rise–Fall–Rise,3,United Arab Emirates,"May 6, 2020",0,Asia,0.01,0.1912597721024848
+Adi Mutluluk,Rise–Fall–Rise,4,Indonesia,"May 6, 2020",0,Asia,0.0833755,0.6296538091518518
+Adim Farah,Fall–Rise–Fall,1,France,"March 1, 2023",2,Europe,0.6693177,0.2295492047563604
+Adim Farah,Fall–Rise–Fall,2,Italy,"March 1, 2023",2,Europe,0.4192803,0.1478157140319547
+Adim Farah,Fall–Rise–Fall,6,United Kingdom,"March 2, 2023",2,Europe,0.6967751,0.2524422168955692
+Adim Farah,Fall–Rise–Fall,7,India,"March 2, 2023",2,Asia,0.0793723,0.33051190066537
+Adim Farah,Fall–Rise–Fall,4,United States,"March 1, 2023",2,North America,0.534117,0.7936160860974052
+Adim Farah,Fall–Rise–Fall,10,Saudi Arabia,"May 7, 2023",2,Asia,0.0949598,0.1486840479923277
+Adim Farah,Fall–Rise–Fall,11,Poland,"July 17, 2023",2,Europe,0.324006,0.1233551371653434
+Adim Farah,Fall–Rise–Fall,12,Iran,"August 14, 2023",2,Asia,0.0628783,0.1375124445961907
+Adim Farah,Fall–Rise–Fall,13,Albania,"January 3, 2024",2,Europe,0.1458853,0.0946830751966958
+Adim Farah,Fall–Rise–Fall,5,United Arab Emirates,"March 2, 2023",2,Asia,0.01,0.1912597721024848
+Adim Farah,Fall–Rise–Fall,8,Philippines,"March 2, 2023",2,Asia,0.1298888,0.6621582412275726
+Adim Farah,Fall–Rise–Fall,9,Singapore,"March 2, 2023",2,Asia,0.230165,0.583682754347835
+Adini Feriha Koydum,Rise–Fall,3,Argentina,"December 16, 2016",0,South America,0.4332813,0.8508386475808689
+Adini Feriha Koydum,Rise–Fall,6,India,"April 3, 2018",0,Asia,0.0793723,0.33051190066537
+Adini Feriha Koydum,Rise–Fall,7,United Arab Emirates,"March 6, 2019",0,Asia,0.01,0.1912597721024848
+Adini Feriha Koydum,Rise–Fall,4,Hungary,"March 6, 2018",0,Europe,0.5444989,0.1137859404272508
+Adini Feriha Koydum,Rise–Fall,5,Egypt,"April 3, 2018",0,Africa,0.3713828,0.0723007485139661
+Aldatmak,Fall–Rise,1,Brazil,September 2022,1,South America,0.3063638,0.7086143745052557
+Aldatmak,Fall–Rise,2,France,"September 22, 2022",1,Europe,0.6693177,0.2295492047563604
+Aldatmak,Fall–Rise,4,United Arab Emirates,"September 23, 2022",1,Asia,0.01,0.1912597721024848
+Aldatmak,Fall–Rise,5,Philippines,"September 23, 2022",1,Asia,0.1298888,0.6621582412275726
+Ariza,Fall–Rise–Fall,3,United Arab Emirates,"September 14, 2020",2,Asia,0.01,0.1912597721024848
+Ariza,Fall–Rise–Fall,4,Egypt,"September 14, 2020",2,Africa,0.3713828,0.0723007485139661
+Ariza,Fall–Rise–Fall,5,Philippines,"September 14, 2020",2,Asia,0.1298888,0.6621582412275726
+Ask 101,Rise–Fall–Rise,2,United Arab Emirates,"April 24, 2020",0,Asia,0.01,0.1912597721024848
+Ask 101,Rise–Fall–Rise,3,Argentina,"April 24, 2020",0,South America,0.4332813,0.8508386475808689
+Ask 101,Rise–Fall–Rise,6,Canada,"April 24, 2020",0,North America,0.5667968,0.7849206074012037
+Ask 101,Rise–Fall–Rise,7,Germany,"April 24, 2020",0,Europe,0.7842516,0.1673367793261102
+Ask 101,Rise–Fall–Rise,4,Australia,"April 24, 2020",0,Oceania,0.7100703,1.0
+Ask 101,Rise–Fall–Rise,10,Spain,"April 24, 2020",0,Europe,0.7732433,0.2640219694512341
+Ask 101,Rise–Fall–Rise,11,France,"April 24, 2020",0,Europe,0.6693177,0.2295492047563604
+Ask 101,Rise–Fall–Rise,12,United Kingdom,"April 24, 2020",0,Europe,0.6967751,0.2524422168955692
+Ask 101,Rise–Fall–Rise,13,Hong Kong,"April 24, 2020",0,Asia,0.6070375,0.6008196576520627
+Ask 101,Rise–Fall–Rise,14,Hungary,"April 24, 2020",0,Europe,0.5444989,0.1137859404272508
+Ask 101,Rise–Fall–Rise,15,Indonesia,"April 24, 2020",0,Asia,0.0833755,0.6296538091518518
+Ask 101,Rise–Fall–Rise,16,Israel,"April 24, 2020",0,Asia,0.01,0.0612838137293157
+Ask 101,Rise–Fall–Rise,17,India,"April 24, 2020",0,Asia,0.0793723,0.33051190066537
+Ask 101,Rise–Fall–Rise,18,Italy,"April 24, 2020",0,Europe,0.4192803,0.1478157140319547
+Ask 101,Rise–Fall–Rise,19,Japan,"April 24, 2020",0,Asia,0.6066421,0.7721366121005522
+Ask 101,Rise–Fall–Rise,20,South Korea,"April 24, 2020",0,Asia,0.7258395,0.6799317781731508
+Ask 101,Rise–Fall–Rise,21,Mexico,"April 24, 2020",0,North America,0.4145935,0.9646369383912728
+Ask 101,Rise–Fall–Rise,22,Philippines,"April 24, 2020",0,Asia,0.1298888,0.6621582412275726
+Ask 101,Rise–Fall–Rise,5,Brazil,"April 24, 2020",0,South America,0.3063638,0.7086143745052557
+Ask 101,Rise–Fall–Rise,8,Ecuador,"April 24, 2020",0,South America,0.1381429,0.8549951931784503
+Ask 101,Rise–Fall–Rise,9,Egypt,"April 24, 2020",0,Africa,0.3713828,0.0723007485139661
+Ask 101,Rise–Fall–Rise,23,Poland,"April 24, 2020",0,Europe,0.324006,0.1233551371653434
+Ask 101,Rise–Fall–Rise,24,Sweden,"April 24, 2020",0,Europe,1.0,0.1762383532841106
+Ask 101,Rise–Fall–Rise,25,Singapore,"April 24, 2020",0,Asia,0.230165,0.583682754347835
+Ask 101,Rise–Fall–Rise,27,Taiwan,"April 24, 2020",0,Asia,0.4713243,0.649589846721192
+Ask 101,Rise–Fall–Rise,28,United States,"April 24, 2020",0,North America,0.534117,0.7936160860974052
+Ask 101,Rise–Fall–Rise,29,Netherlands,"April 25, 2020",0,Europe,0.8124272,0.2210696091685343
+Ask Laftan Anlamaz,Rise–Fall–Rise,2,France,"June 15, 2016",0,Europe,0.6693177,0.2295492047563604
+Ask Laftan Anlamaz,Rise–Fall–Rise,6,Egypt,"November 27, 2017",0,Africa,0.3713828,0.0723007485139661
+Ask Laftan Anlamaz,Rise–Fall–Rise,7,India,"November 27, 2017",0,Asia,0.0793723,0.33051190066537
+Ask Laftan Anlamaz,Rise–Fall–Rise,4,United States,"June 15, 2016",0,North America,0.534117,0.7936160860974052
+Ask Laftan Anlamaz,Rise–Fall–Rise,10,Poland,"January 14, 2019",0,Europe,0.324006,0.1233551371653434
+Ask Laftan Anlamaz,Rise–Fall–Rise,11,Spain,"December 9, 2019",0,Europe,0.7732433,0.2640219694512341
+Ask Laftan Anlamaz,Rise–Fall–Rise,12,Indonesia,"December 3, 2021",0,Asia,0.0833755,0.6296538091518518
+Ask Laftan Anlamaz,Rise–Fall–Rise,14,Australia,"July 8, 2023",0,Oceania,0.7100703,1.0
+Ask Laftan Anlamaz,Rise–Fall–Rise,5,United Arab Emirates,"November 27, 2017",0,Asia,0.01,0.1912597721024848
+Ask Laftan Anlamaz,Rise–Fall–Rise,8,Philippines,"November 27, 2017",0,Asia,0.1298888,0.6621582412275726
+Ask Laftan Anlamaz,Rise–Fall–Rise,9,South Africa,"November 27, 2017",0,Africa,0.3910609,0.5433682377844444
+Ask ve Ceza,Fall–Rise,2,Bosnia and Herzegovina,"March 28, 2011",1,Europe,0.188779,0.1084733572133768
+Ask ve Ceza,Fall–Rise,3,Croatia,"August 21, 2011",1,Europe,0.3995508,0.1290931496252333
+Ask ve Ceza,Fall–Rise,6,Serbia,"January 8, 2013",1,Europe,0.32449,0.0962187253711724
+Ask ve Ceza,Fall–Rise,7,Georgia,"April 15, 2013",1,Asia,0.0282454,0.0874535238246013
+Ask ve Ceza,Fall–Rise,4,Bulgaria,"September 19, 2011",1,Europe,0.3135629,0.0716856485326808
+Ask ve Ceza,Fall–Rise,10,United Arab Emirates,"September 28, 2021",1,Asia,0.01,0.1912597721024848
+Ask ve Ceza,Fall–Rise,5,North Macedonia,"October 24, 2011",1,Europe,0.2345222,0.0838341372585914
+Ask ve Ceza,Fall–Rise,8,Ukraine,"September 23, 2013",1,Europe,0.5116708,0.0778594822686999
+Ask ve Ceza,Fall–Rise,9,Poland,"March 15, 2017",1,Europe,0.324006,0.1233551371653434
+Askin Tarifi,Fall–Rise,2,Philippines,"June 7, 2021",1,Asia,0.1298888,0.6621582412275726
+Askin Tarifi,Fall–Rise,4,United Arab Emirates,"June 8, 2021",1,Asia,0.01,0.1912597721024848
+Askin Tarifi,Fall–Rise,5,Indonesia,"June 8, 2021",1,Asia,0.0833755,0.6296538091518518
+Aslan Ailem,Fall–Rise,3,United Arab Emirates,"October 23, 2017",1,Asia,0.01,0.1912597721024848
+Atiye,Rise–Fall–Rise,1,United Arab Emirates,"December 27, 2019",0,Asia,0.01,0.1912597721024848
+Atiye,Rise–Fall–Rise,2,Argentina,"December 27, 2019",0,South America,0.4332813,0.8508386475808689
+Atiye,Rise–Fall–Rise,3,Australia,"December 27, 2019",0,Oceania,0.7100703,1.0
+Atiye,Rise–Fall–Rise,6,Canada,"December 27, 2019",0,North America,0.5667968,0.7849206074012037
+Atiye,Rise–Fall–Rise,7,Germany,"December 27, 2019",0,Europe,0.7842516,0.1673367793261102
+Atiye,Rise–Fall–Rise,4,Brazil,"December 27, 2019",0,South America,0.3063638,0.7086143745052557
+Atiye,Rise–Fall–Rise,10,Spain,"December 27, 2019",0,Europe,0.7732433,0.2640219694512341
+Atiye,Rise–Fall–Rise,11,France,"December 27, 2019",0,Europe,0.6693177,0.2295492047563604
+Atiye,Rise–Fall–Rise,12,United Kingdom,"December 27, 2019",0,Europe,0.6967751,0.2524422168955692
+Atiye,Rise–Fall–Rise,13,Hong Kong,"December 27, 2019",0,Asia,0.6070375,0.6008196576520627
+Atiye,Rise–Fall–Rise,14,Hungary,"December 27, 2019",0,Europe,0.5444989,0.1137859404272508
+Atiye,Rise–Fall–Rise,15,Indonesia,"December 27, 2019",0,Asia,0.0833755,0.6296538091518518
+Atiye,Rise–Fall–Rise,16,Israel,"December 27, 2019",0,Asia,0.01,0.0612838137293157
+Atiye,Rise–Fall–Rise,17,India,"December 27, 2019",0,Asia,0.0793723,0.33051190066537
+Atiye,Rise–Fall–Rise,18,Italy,"December 27, 2019",0,Europe,0.4192803,0.1478157140319547
+Atiye,Rise–Fall–Rise,19,Japan,"December 27, 2019",0,Asia,0.6066421,0.7721366121005522
+Atiye,Rise–Fall–Rise,20,South Korea,"December 27, 2019",0,Asia,0.7258395,0.6799317781731508
+Atiye,Rise–Fall–Rise,21,Mexico,"December 27, 2019",0,North America,0.4145935,0.9646369383912728
+Atiye,Rise–Fall–Rise,22,Netherlands,"December 27, 2019",0,Europe,0.8124272,0.2210696091685343
+Atiye,Rise–Fall–Rise,8,Ecuador,"December 27, 2019",0,South America,0.1381429,0.8549951931784503
+Atiye,Rise–Fall–Rise,9,Egypt,"December 27, 2019",0,Africa,0.3713828,0.0723007485139661
+Atiye,Rise–Fall–Rise,23,Philippines,"December 27, 2019",0,Asia,0.1298888,0.6621582412275726
+Atiye,Rise–Fall–Rise,24,Poland,"December 27, 2019",0,Europe,0.324006,0.1233551371653434
+Atiye,Rise–Fall–Rise,25,Singapore,"December 27, 2019",0,Asia,0.230165,0.583682754347835
+Atiye,Rise–Fall–Rise,28,Taiwan,"December 27, 2019",0,Asia,0.4713243,0.649589846721192
+Atiye,Rise–Fall–Rise,29,United States,"December 27, 2019",0,North America,0.534117,0.7936160860974052
+Atiye,Rise–Fall–Rise,30,South Africa,"December 27, 2019",0,Africa,0.3910609,0.5433682377844444
+Atiye,Rise–Fall–Rise,31,Sweden,"June 17, 2021",0,Europe,1.0,0.1762383532841106
+Aziz,Fall–Rise,1,Poland,"May 5, 2021",1,Europe,0.324006,0.1233551371653434
+Aziz,Fall–Rise,2,France,"November 5, 2021",1,Europe,0.6693177,0.2295492047563604
+Aziz,Fall–Rise,4,United Arab Emirates,"November 6, 2021",1,Asia,0.01,0.1912597721024848
+Aziz,Fall–Rise,5,Indonesia,"November 6, 2021",1,Asia,0.0833755,0.6296538091518518
+Babil,Fall–Rise,3,United Arab Emirates,"June 18, 2020",1,Asia,0.01,0.1912597721024848
+Baht Oyunu,Fall–Rise–Fall,2,United Arab Emirates,"June 16, 2021",2,Asia,0.01,0.1912597721024848
+Baht Oyunu,Fall–Rise–Fall,3,Ecuador,"June 16, 2021",2,South America,0.1381429,0.8549951931784503
+Baht Oyunu,Fall–Rise–Fall,6,Philippines,"June 16, 2021",2,Asia,0.1298888,0.6621582412275726
+Baht Oyunu,Fall–Rise–Fall,7,Singapore,"June 16, 2021",2,Asia,0.230165,0.583682754347835
+Baht Oyunu,Fall–Rise–Fall,4,Israel,"June 16, 2021",2,Asia,0.01,0.0612838137293157
+Baht Oyunu,Fall–Rise–Fall,5,India,"June 16, 2021",2,Asia,0.0793723,0.33051190066537
+Baht Oyunu,Fall–Rise–Fall,8,Indonesia,"June 17, 2021",2,Asia,0.0833755,0.6296538091518518
+Bana Sevmeyi Anlat,Fall–Rise,2,Tunisia,"April 24, 2020",1,Africa,0.1240503,0.1653694165552963
+Bay Yanlis,Fall–Rise,2,Australia,"June 26, 2020",1,Oceania,0.7100703,1.0
+Bay Yanlis,Fall–Rise,3,Italy,"June 26, 2020",1,Europe,0.4192803,0.1478157140319547
+Bay Yanlis,Fall–Rise,6,Egypt,"June 27, 2020",1,Africa,0.3713828,0.0723007485139661
+Bay Yanlis,Fall–Rise,7,Philippines,"June 27, 2020",1,Asia,0.1298888,0.6621582412275726
+Bay Yanlis,Fall–Rise,10,United Arab Emirates,"July 14, 2021",1,Asia,0.01,0.1912597721024848
+Bay Yanlis,Fall–Rise,12,Brazil,"June 19, 2023",1,South America,0.3063638,0.7086143745052557
+Bay Yanlis,Fall–Rise,5,United States,"June 26, 2020",1,North America,0.534117,0.7936160860974052
+Bay Yanlis,Fall–Rise,8,India,"March 22, 2021",1,Asia,0.0793723,0.33051190066537
+Bay Yanlis,Fall–Rise,9,Indonesia,"June 30, 2021",1,Asia,0.0833755,0.6296538091518518
+Benim Hala Umudum Var,Fall–Rise,2,Poland,"September 1, 2017",1,Europe,0.324006,0.1233551371653434
+Benim Hala Umudum Var,Fall–Rise,3,United Arab Emirates,"June 7, 2023",1,Asia,0.01,0.1912597721024848
+Benim Tatli Yalanim,Fall–Rise–Fall,2,United Arab Emirates,"June 14, 2019",2,Asia,0.01,0.1912597721024848
+Benim Tatli Yalanim,Fall–Rise–Fall,3,Philippines,"June 14, 2019",2,Asia,0.1298888,0.6621582412275726
+Benim Tatli Yalanim,Fall–Rise–Fall,4,Spain,"October 5, 2020",2,Europe,0.7732433,0.2640219694512341
+Binbir Gece,Fall–Rise–Fall,2,Bulgaria,"December 8, 2008",2,Europe,0.3135629,0.0716856485326808
+Binbir Gece,Fall–Rise–Fall,3,Serbia,"March 8, 2010",2,Europe,0.32449,0.0962187253711724
+Binbir Gece,Fall–Rise–Fall,6,Bosnia and Herzegovina,"August 30, 2010",2,Europe,0.188779,0.1084733572133768
+Binbir Gece,Fall–Rise–Fall,7,Slovenia,"September 30, 2010",2,Europe,0.6981235,0.1397113557206531
+Binbir Gece,Fall–Rise–Fall,4,Greece,"June 7, 2010",2,Europe,0.2814158,0.067270471552006
+Binbir Gece,Fall–Rise–Fall,11,Ukraine,"July 15, 2013",2,Europe,0.5116708,0.0778594822686999
+Binbir Gece,Fall–Rise–Fall,12,Chile,"March 3, 2014",2,South America,0.5071435,0.9162254294559404
+Binbir Gece,Fall–Rise–Fall,13,Israel,"November 5, 2014",2,Asia,0.01,0.0612838137293157
+Binbir Gece,Fall–Rise–Fall,14,Argentina,"January 5, 2015",2,South America,0.4332813,0.8508386475808689
+Binbir Gece,Fall–Rise–Fall,15,Peru,"February 9, 2015",2,South America,0.2758466,0.877777612811714
+Binbir Gece,Fall–Rise–Fall,16,Brazil,"March 9, 2015",2,South America,0.3063638,0.7086143745052557
+Binbir Gece,Fall–Rise–Fall,17,Russia,"May 23, 2015",2,,0.4483133,0.1194243774165101
+Binbir Gece,Fall–Rise–Fall,18,Indonesia,"August 3, 2015",2,Asia,0.0833755,0.6296538091518518
+Binbir Gece,Fall–Rise–Fall,19,Poland,"September 1, 2015",2,Europe,0.324006,0.1233551371653434
+Binbir Gece,Fall–Rise–Fall,20,Kazakhstan,"May 16, 2016",2,Asia,0.2559081,0.2903128685434853
+Binbir Gece,Fall–Rise–Fall,21,United Arab Emirates,"March 30, 2018",2,Asia,0.01,0.1912597721024848
+Binbir Gece,Fall–Rise–Fall,22,Egypt,"March 30, 2018",2,Africa,0.3713828,0.0723007485139661
+Binbir Gece,Fall–Rise–Fall,5,Croatia,"August 22, 2010",2,Europe,0.3995508,0.1290931496252333
+Binbir Gece,Fall–Rise–Fall,8,Slovakia,"January 3, 2011",2,Europe,0.5612988,0.1283105325141142
+Binbir Gece,Fall–Rise–Fall,9,Hungary,"April 14, 2011",2,Europe,0.5444989,0.1137859404272508
+Binbir Gece,Fall–Rise–Fall,23,India,"March 30, 2018",2,Asia,0.0793723,0.33051190066537
+Bir Baskadir,Rise–Fall–Rise,1,United Arab Emirates,"November 12, 2020",0,Asia,0.01,0.1912597721024848
+Bir Baskadir,Rise–Fall–Rise,2,Argentina,"November 12, 2020",0,South America,0.4332813,0.8508386475808689
+Bir Baskadir,Rise–Fall–Rise,3,Australia,"November 12, 2020",0,Oceania,0.7100703,1.0
+Bir Baskadir,Rise–Fall–Rise,6,Germany,"November 12, 2020",0,Europe,0.7842516,0.1673367793261102
+Bir Baskadir,Rise–Fall–Rise,7,Ecuador,"November 12, 2020",0,South America,0.1381429,0.8549951931784503
+Bir Baskadir,Rise–Fall–Rise,4,Brazil,"November 12, 2020",0,South America,0.3063638,0.7086143745052557
+Bir Baskadir,Rise–Fall–Rise,10,United Kingdom,"November 12, 2020",0,Europe,0.6967751,0.2524422168955692
+Bir Baskadir,Rise–Fall–Rise,11,Indonesia,"November 12, 2020",0,Asia,0.0833755,0.6296538091518518
+Bir Baskadir,Rise–Fall–Rise,12,Israel,"November 12, 2020",0,Asia,0.01,0.0612838137293157
+Bir Baskadir,Rise–Fall–Rise,13,India,"November 12, 2020",0,Asia,0.0793723,0.33051190066537
+Bir Baskadir,Rise–Fall–Rise,14,Italy,"November 12, 2020",0,Europe,0.4192803,0.1478157140319547
+Bir Baskadir,Rise–Fall–Rise,15,South Korea,"November 12, 2020",0,Asia,0.7258395,0.6799317781731508
+Bir Baskadir,Rise–Fall–Rise,16,Mexico,"November 12, 2020",0,North America,0.4145935,0.9646369383912728
+Bir Baskadir,Rise–Fall–Rise,17,Netherlands,"November 12, 2020",0,Europe,0.8124272,0.2210696091685343
+Bir Baskadir,Rise–Fall–Rise,18,Philippines,"November 12, 2020",0,Asia,0.1298888,0.6621582412275726
+Bir Baskadir,Rise–Fall–Rise,19,Poland,"November 12, 2020",0,Europe,0.324006,0.1233551371653434
+Bir Baskadir,Rise–Fall–Rise,20,Sweden,"November 12, 2020",0,Europe,1.0,0.1762383532841106
+Bir Baskadir,Rise–Fall–Rise,21,Singapore,"November 12, 2020",0,Asia,0.230165,0.583682754347835
+Bir Baskadir,Rise–Fall–Rise,5,Canada,"November 12, 2020",0,North America,0.5667968,0.7849206074012037
+Bir Baskadir,Rise–Fall–Rise,8,Spain,"November 12, 2020",0,Europe,0.7732433,0.2640219694512341
+Bir Baskadir,Rise–Fall–Rise,9,France,"November 12, 2020",0,Europe,0.6693177,0.2295492047563604
+Bir Baskadir,Rise–Fall–Rise,23,United States,"November 12, 2020",0,North America,0.534117,0.7936160860974052
+Bir Baskadir,Rise–Fall–Rise,24,Japan,"November 22, 2020",0,Asia,0.6066421,0.7721366121005522
+Bir Bulut Olsam,Fall–Rise,1,Cyprus,"February 23, 2009",1,Asia,0.1591806,0.0345762125599727
+Bir Bulut Olsam,Fall–Rise,3,United States,"February 23, 2009",1,North America,0.534117,0.7936160860974052
+Bir Bulut Olsam,Fall–Rise,6,Egypt,2011,1,Africa,0.3713828,0.0723007485139661
+Bir Bulut Olsam,Fall–Rise,7,Saudi Arabia,2011,1,Asia,0.0949598,0.1486840479923277
+Bir Bulut Olsam,Fall–Rise,4,United Arab Emirates,2011,1,Asia,0.01,0.1912597721024848
+Bir Bulut Olsam,Fall–Rise,10,Spain,2020,1,Europe,0.7732433,0.2640219694512341
+Bir Bulut Olsam,Fall–Rise,5,Bahrain,2011,1,Asia,,
+Bir Bulut Olsam,Fall–Rise,8,Croatia,2013,1,Europe,0.3995508,0.1290931496252333
+Bir Bulut Olsam,Fall–Rise,9,Kazakhstan,September 2013,1,Asia,0.2559081,0.2903128685434853
+Bir Zamanlar Cukurova,Fall–Rise–Fall,2,United Arab Emirates,"September 14, 2018",2,Asia,0.01,0.1912597721024848
+Bir Zamanlar Cukurova,Fall–Rise–Fall,3,Argentina,"January 28, 2021",2,South America,0.4332813,0.8508386475808689
+Bir Zamanlar Cukurova,Fall–Rise–Fall,4,Spain,"July 4, 2021",2,Europe,0.7732433,0.2640219694512341
+Bir Zamanlar Cukurova,Fall–Rise–Fall,5,Italy,"July 4, 2022",2,Europe,0.4192803,0.1478157140319547
+Bodrum Masali,Fall–Rise,2,Australia,"September 24, 2020",1,Oceania,0.7100703,1.0
+Bu Sehir Arkandan Gelecek,Fall–Rise,2,Poland,"September 29, 2017",1,Europe,0.324006,0.1233551371653434
+Bu Sehir Arkandan Gelecek,Fall–Rise,3,Spain,"October 19, 2022",1,Europe,0.7732433,0.2640219694512341
+Börü,Rise,2,Argentina,"December 21, 2018",0,South America,0.4332813,0.8508386475808689
+Börü,Rise,3,Australia,"December 21, 2018",0,Oceania,0.7100703,1.0
+Börü,Rise,6,India,"December 21, 2018",0,Asia,0.0793723,0.33051190066537
+Börü,Rise,7,Poland,"December 21, 2018",0,Europe,0.324006,0.1233551371653434
+Börü,Rise,4,Germany,"December 21, 2018",0,Europe,0.7842516,0.1673367793261102
+Börü,Rise,5,Spain,"December 21, 2018",0,Europe,0.7732433,0.2640219694512341
+Cam Tavanlar,Rise–Fall–Rise,2,Australia,"June 9, 2021",0,Oceania,0.7100703,1.0
+Cam Tavanlar,Rise–Fall–Rise,6,Philippines,"November 1, 2021",0,Asia,0.1298888,0.6621582412275726
+Cam Tavanlar,Rise–Fall–Rise,4,United Arab Emirates,"June 10, 2021",0,Asia,0.01,0.1912597721024848
+Cam Tavanlar,Rise–Fall–Rise,5,Indonesia,"June 10, 2021",0,Asia,0.0833755,0.6296538091518518
+Camdaki Kiz,Fall–Rise,2,United Arab Emirates,"April 9, 2021",1,Asia,0.01,0.1912597721024848
+Camdaki Kiz,Fall–Rise,3,Spain,"October 16, 2024",1,Europe,0.7732433,0.2640219694512341
+Cati Kati Ask,Rise–Fall–Rise,2,India,"July 10, 2020",0,Asia,0.0793723,0.33051190066537
+Cesur ve Guzel,Fall–Rise,3,United Arab Emirates,"November 11, 2016",1,Asia,0.01,0.1912597721024848
+Cesur ve Guzel,Fall–Rise,6,India,"November 11, 2016",1,Asia,0.0793723,0.33051190066537
+Cesur ve Guzel,Fall–Rise,7,Singapore,"November 11, 2016",1,Asia,0.230165,0.583682754347835
+Cesur ve Guzel,Fall–Rise,4,Egypt,"November 11, 2016",1,Africa,0.3713828,0.0723007485139661
+Cesur ve Guzel,Fall–Rise,10,Argentina,"November 11, 2019",1,South America,0.4332813,0.8508386475808689
+Cesur ve Guzel,Fall–Rise,11,Italy,"July 5, 2021",1,Europe,0.4192803,0.1478157140319547
+Cesur ve Guzel,Fall–Rise,12,Australia,"September 11, 2024",1,Oceania,0.7100703,1.0
+Cesur ve Guzel,Fall–Rise,5,Indonesia,"November 11, 2016",1,Asia,0.0833755,0.6296538091518518
+Cesur ve Guzel,Fall–Rise,8,Poland,"December 5, 2017",1,Europe,0.324006,0.1233551371653434
+Cesur ve Guzel,Fall–Rise,9,Sweden,"September 2, 2019",1,Europe,1.0,0.1762383532841106
+Cop Adam,Rise–Fall,1,France,"November 30, 2022",0,Europe,0.6693177,0.2295492047563604
+Cop Adam,Rise–Fall,3,United Arab Emirates,"December 1, 2022",0,Asia,0.01,0.1912597721024848
+Cop Adam,Rise–Fall,6,India,"December 1, 2022",0,Asia,0.0793723,0.33051190066537
+Cop Adam,Rise–Fall,7,Thailand,"December 1, 2022",0,Asia,0.3391781,0.5240321081565626
+Cop Adam,Rise–Fall,4,Egypt,"December 1, 2022",0,Africa,0.3713828,0.0723007485139661
+Cop Adam,Rise–Fall,5,United Kingdom,"December 1, 2022",0,Europe,0.6967751,0.2524422168955692
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,1,Brazil,"December 25, 2019",2,South America,0.3063638,0.7086143745052557
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,2,Spain,"December 25, 2019",2,Europe,0.7732433,0.2640219694512341
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,3,Italy,"December 25, 2019",2,Europe,0.4192803,0.1478157140319547
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,6,South Africa,"December 26, 2019",2,Africa,0.3910609,0.5433682377844444
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,7,India,"June 14, 2021",2,Asia,0.0793723,0.33051190066537
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,5,United Arab Emirates,"December 26, 2019",2,Asia,0.01,0.1912597721024848
+Dogdugun Ev Kaderindir,Fall–Rise–Fall,8,Poland,"December 3, 2021",2,Europe,0.324006,0.1233551371653434
+Dolunay,Rise–Fall–Rise,2,Canada,"September 9, 1988",0,North America,0.5667968,0.7849206074012037
+Duy Beni,Fall–Rise,1,France,"July 7, 2022",1,Europe,0.6693177,0.2295492047563604
+Duy Beni,Fall–Rise,3,United Arab Emirates,"July 8, 2022",1,Asia,0.01,0.1912597721024848
+Duy Beni,Fall–Rise,6,Egypt,"July 8, 2022",1,Africa,0.3713828,0.0723007485139661
+Duy Beni,Fall–Rise,7,Indonesia,"July 8, 2022",1,Asia,0.0833755,0.6296538091518518
+Duy Beni,Fall–Rise,4,Australia,"July 8, 2022",1,Oceania,0.7100703,1.0
+Duy Beni,Fall–Rise,10,Philippines,"July 8, 2022",1,Asia,0.1298888,0.6621582412275726
+Duy Beni,Fall–Rise,11,Singapore,"July 8, 2022",1,Asia,0.230165,0.583682754347835
+Duy Beni,Fall–Rise,12,South Africa,"July 8, 2022",1,Africa,0.3910609,0.5433682377844444
+Duy Beni,Fall–Rise,5,Ecuador,"July 8, 2022",1,South America,0.1381429,0.8549951931784503
+Duy Beni,Fall–Rise,8,Israel,"July 8, 2022",1,Asia,0.01,0.0612838137293157
+Duy Beni,Fall–Rise,9,India,"July 8, 2022",1,Asia,0.0793723,0.33051190066537
+Elkizi,Fall–Rise–Fall,2,United Arab Emirates,"October 24, 2021",2,Asia,0.01,0.1912597721024848
+Elkizi,Fall–Rise–Fall,3,Indonesia,"October 24, 2021",2,Asia,0.0833755,0.6296538091518518
+Elkizi,Fall–Rise–Fall,4,India,"October 25, 2021",2,Asia,0.0793723,0.33051190066537
+Elkizi,Fall–Rise–Fall,5,Philippines,"October 25, 2021",2,Asia,0.1298888,0.6621582412275726
+Erkenci Kus,Rise–Fall–Rise,2,Brazil,"June 26, 2018",0,South America,0.3063638,0.7086143745052557
+Erkenci Kus,Rise–Fall–Rise,3,India,"June 26, 2018",0,Asia,0.0793723,0.33051190066537
+Erkenci Kus,Rise–Fall–Rise,6,Spain,"April 8, 2019",0,Europe,0.7732433,0.2640219694512341
+Erkenci Kus,Rise–Fall–Rise,7,Australia,"June 22, 2019",0,Oceania,0.7100703,1.0
+Erkenci Kus,Rise–Fall–Rise,4,Poland,"June 26, 2018",0,Europe,0.324006,0.1233551371653434
+Erkenci Kus,Rise–Fall–Rise,10,United Arab Emirates,"September 10, 2021",0,Asia,0.01,0.1912597721024848
+Erkenci Kus,Rise–Fall–Rise,11,Ecuador,"September 10, 2021",0,South America,0.1381429,0.8549951931784503
+Erkenci Kus,Rise–Fall–Rise,12,Egypt,"September 10, 2021",0,Africa,0.3713828,0.0723007485139661
+Erkenci Kus,Rise–Fall–Rise,13,Indonesia,"September 10, 2021",0,Asia,0.0833755,0.6296538091518518
+Erkenci Kus,Rise–Fall–Rise,14,Philippines,"September 10, 2021",0,Asia,0.1298888,0.6621582412275726
+Erkenci Kus,Rise–Fall–Rise,15,Singapore,"September 10, 2021",0,Asia,0.230165,0.583682754347835
+Erkenci Kus,Rise–Fall–Rise,16,South Africa,"September 10, 2021",0,Africa,0.3910609,0.5433682377844444
+Erkenci Kus,Rise–Fall–Rise,17,Canada,"January 10, 2022",0,North America,0.5667968,0.7849206074012037
+Erkenci Kus,Rise–Fall–Rise,18,Argentina,"February 21, 2022",0,South America,0.4332813,0.8508386475808689
+Erkenci Kus,Rise–Fall–Rise,19,France,"June 26, 2022",0,Europe,0.6693177,0.2295492047563604
+Erkenci Kus,Rise–Fall–Rise,8,Italy,"June 10, 2020",0,Europe,0.4192803,0.1478157140319547
+Erkenci Kus,Rise–Fall–Rise,9,United States,"October 27, 2020",0,North America,0.534117,0.7936160860974052
+Ezel,Fall–Rise,2,Hungary,"April 9, 2011",1,Europe,0.5444989,0.1137859404272508
+Ezel,Fall–Rise,3,United Arab Emirates,"July 19, 2013",1,Asia,0.01,0.1912597721024848
+Ezel,Fall–Rise,6,Argentina,"May 11, 2015",1,South America,0.4332813,0.8508386475808689
+Ezel,Fall–Rise,7,Poland,"December 26, 2016",1,Europe,0.324006,0.1233551371653434
+Ezel,Fall–Rise,4,Egypt,"July 19, 2013",1,Africa,0.3713828,0.0723007485139661
+Ezel,Fall–Rise,5,South Africa,"July 19, 2013",1,Africa,0.3910609,0.5433682377844444
+Ezel,Fall–Rise,8,France,"March 15, 2017",1,Europe,0.6693177,0.2295492047563604
+Fatma,Fall–Rise,1,United Arab Emirates,"April 27, 2021",1,Asia,0.01,0.1912597721024848
+Fatma,Fall–Rise,2,Argentina,"April 27, 2021",1,South America,0.4332813,0.8508386475808689
+Fatma,Fall–Rise,3,Australia,"April 27, 2021",1,Oceania,0.7100703,1.0
+Fatma,Fall–Rise,6,Germany,"April 27, 2021",1,Europe,0.7842516,0.1673367793261102
+Fatma,Fall–Rise,7,Spain,"April 27, 2021",1,Europe,0.7732433,0.2640219694512341
+Fatma,Fall–Rise,4,Brazil,"April 27, 2021",1,South America,0.3063638,0.7086143745052557
+Fatma,Fall–Rise,10,Hungary,"April 27, 2021",1,Europe,0.5444989,0.1137859404272508
+Fatma,Fall–Rise,11,India,"April 27, 2021",1,Asia,0.0793723,0.33051190066537
+Fatma,Fall–Rise,12,Italy,"April 27, 2021",1,Europe,0.4192803,0.1478157140319547
+Fatma,Fall–Rise,13,Japan,"April 27, 2021",1,Asia,0.6066421,0.7721366121005522
+Fatma,Fall–Rise,14,South Korea,"April 27, 2021",1,Asia,0.7258395,0.6799317781731508
+Fatma,Fall–Rise,15,Mexico,"April 27, 2021",1,North America,0.4145935,0.9646369383912728
+Fatma,Fall–Rise,16,Netherlands,"April 27, 2021",1,Europe,0.8124272,0.2210696091685343
+Fatma,Fall–Rise,17,Philippines,"April 27, 2021",1,Asia,0.1298888,0.6621582412275726
+Fatma,Fall–Rise,18,Poland,"April 27, 2021",1,Europe,0.324006,0.1233551371653434
+Fatma,Fall–Rise,19,Singapore,"April 27, 2021",1,Asia,0.230165,0.583682754347835
+Fatma,Fall–Rise,21,United States,"April 27, 2021",1,North America,0.534117,0.7936160860974052
+Fatma,Fall–Rise,5,Canada,"April 27, 2021",1,North America,0.5667968,0.7849206074012037
+Fatma,Fall–Rise,8,France,"April 27, 2021",1,Europe,0.6693177,0.2295492047563604
+Fatma,Fall–Rise,9,United Kingdom,"April 27, 2021",1,Europe,0.6967751,0.2524422168955692
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,1,France,"March 25, 2017",0,Europe,0.6693177,0.2295492047563604
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,2,Italy,"March 25, 2017",0,Europe,0.4192803,0.1478157140319547
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,6,United Arab Emirates,"September 10, 2021",0,Asia,0.01,0.1912597721024848
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,7,Israel,"September 10, 2021",0,Asia,0.01,0.0612838137293157
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,4,Tunisia,"March 25, 2019",0,Africa,0.1240503,0.1653694165552963
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,10,Egypt,"February 25, 2022",0,Africa,0.3713828,0.0723007485139661
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,11,Thailand,"February 25, 2022",0,Asia,0.3391781,0.5240321081565626
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,12,Poland,"March 28, 2022",0,Europe,0.324006,0.1233551371653434
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,5,Spain,"November 17, 2019",0,Europe,0.7732433,0.2640219694512341
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,8,India,"September 10, 2021",0,Asia,0.0793723,0.33051190066537
+Fazilet Hanim ve Kizlari,Rise–Fall–Rise,9,Singapore,"September 10, 2021",0,Asia,0.230165,0.583682754347835
+Filinta,Fall–Rise,1,France,"December 23, 2014",1,Europe,0.6693177,0.2295492047563604
+Filinta,Fall–Rise,3,Tunisia,"May 6, 2019",1,Africa,0.1240503,0.1653694165552963
+Gecenin Kralicesi,Fall–Rise–Fall,2,Hungary,"August 14, 2016",2,Europe,0.5444989,0.1137859404272508
+Gecenin Kralicesi,Fall–Rise–Fall,3,Poland,"September 29, 2016",2,Europe,0.324006,0.1233551371653434
+Gecenin Ucunda,Rise–Fall–Rise,1,France,"October 5, 2022",0,Europe,0.6693177,0.2295492047563604
+Gecenin Ucunda,Rise–Fall–Rise,3,Ecuador,"October 6, 2022",0,South America,0.1381429,0.8549951931784503
+Gecenin Ucunda,Rise–Fall–Rise,6,India,"October 6, 2022",0,Asia,0.0793723,0.33051190066537
+Gecenin Ucunda,Rise–Fall–Rise,4,Egypt,"October 6, 2022",0,Africa,0.3713828,0.0723007485139661
+Gecenin Ucunda,Rise–Fall–Rise,5,Israel,"October 6, 2022",0,Asia,0.01,0.0612838137293157
+Gelsin Hayat Bildigi Gibi,Fall–Rise,1,France,"July 21, 2022",1,Europe,0.6693177,0.2295492047563604
+Gelsin Hayat Bildigi Gibi,Fall–Rise,3,United Arab Emirates,"July 22, 2022",1,Asia,0.01,0.1912597721024848
+Gelsin Hayat Bildigi Gibi,Fall–Rise,6,India,"July 22, 2022",1,Asia,0.0793723,0.33051190066537
+Gelsin Hayat Bildigi Gibi,Fall–Rise,7,Philippines,"July 22, 2022",1,Asia,0.1298888,0.6621582412275726
+Gelsin Hayat Bildigi Gibi,Fall–Rise,4,Egypt,"July 22, 2022",1,Africa,0.3713828,0.0723007485139661
+Gelsin Hayat Bildigi Gibi,Fall–Rise,5,Indonesia,"July 22, 2022",1,Asia,0.0833755,0.6296538091518518
+Gelsin Hayat Bildigi Gibi,Fall–Rise,8,Singapore,"July 22, 2022",1,Asia,0.230165,0.583682754347835
+Gelsin Hayat Bildigi Gibi,Fall–Rise,9,Thailand,"July 22, 2022",1,Asia,0.3391781,0.5240321081565626
+Gizli Sakli,Rise–Fall–Rise,2,United Arab Emirates,"June 9, 2022",0,Asia,0.01,0.1912597721024848
+Gizli Sakli,Rise–Fall–Rise,3,Indonesia,"June 9, 2022",0,Asia,0.0833755,0.6296538091518518
+Gizli Sakli,Rise–Fall–Rise,6,Singapore,"June 9, 2022",0,Asia,0.230165,0.583682754347835
+Gizli Sakli,Rise–Fall–Rise,4,India,"June 9, 2022",0,Asia,0.0793723,0.33051190066537
+Gizli Sakli,Rise–Fall–Rise,5,Philippines,"June 9, 2022",0,Asia,0.1298888,0.6621582412275726
+Gonul Dagi,Rise–Fall–Rise,3,India,"October 18, 2020",0,Asia,0.0793723,0.33051190066537
+Gulcemal,Fall–Rise–Fall,1,France,"April 6, 2023",2,Europe,0.6693177,0.2295492047563604
+Gulcemal,Fall–Rise–Fall,3,United States,"April 6, 2023",2,North America,0.534117,0.7936160860974052
+Gulcemal,Fall–Rise–Fall,6,India,"April 7, 2023",2,Asia,0.0793723,0.33051190066537
+Gulcemal,Fall–Rise–Fall,7,Philippines,"April 7, 2023",2,Asia,0.1298888,0.6621582412275726
+Gulcemal,Fall–Rise–Fall,4,United Arab Emirates,"April 7, 2023",2,Asia,0.01,0.1912597721024848
+Gulcemal,Fall–Rise–Fall,5,United Kingdom,"April 7, 2023",2,Europe,0.6967751,0.2524422168955692
+Gulcemal,Fall–Rise–Fall,8,Singapore,"April 7, 2023",2,Asia,0.230165,0.583682754347835
+Gullerin Savasi,Fall–Rise,2,Argentina,"November 24, 2020",1,South America,0.4332813,0.8508386475808689
+Gullerin Savasi,Fall–Rise,3,Spain,"June 17, 2024",1,Europe,0.7732433,0.2640219694512341
+Gumus,Fall–Rise,3,United Arab Emirates,"September 21, 2020",1,Asia,0.01,0.1912597721024848
+Gumus,Fall–Rise,4,Egypt,"September 21, 2020",1,Africa,0.3713828,0.0723007485139661
+Hatirla Sevgili,Fall–Rise–Fall,2,United Arab Emirates,"July 24, 2018",2,Asia,0.01,0.1912597721024848
+Hayat Sarkisi,Rise–Fall–Rise,2,United Arab Emirates,"July 12, 2019",0,Asia,0.01,0.1912597721024848
+Hayat Sirlari,Rise–Fall–Rise,2,India,"November 2, 2017",0,Asia,0.0793723,0.33051190066537
+Her Yerde Sen,Rise–Fall–Rise,1,Italy,"June 14, 2019",0,Europe,0.4192803,0.1478157140319547
+Her Yerde Sen,Rise–Fall–Rise,2,Poland,"June 14, 2019",0,Europe,0.324006,0.1233551371653434
+Her Yerde Sen,Rise–Fall–Rise,6,India,"June 15, 2019",0,Asia,0.0793723,0.33051190066537
+Her Yerde Sen,Rise–Fall–Rise,7,Spain,"August 31, 2020",0,Europe,0.7732433,0.2640219694512341
+Her Yerde Sen,Rise–Fall–Rise,4,United Arab Emirates,"June 15, 2019",0,Asia,0.01,0.1912597721024848
+Her Yerde Sen,Rise–Fall–Rise,5,Egypt,"June 15, 2019",0,Africa,0.3713828,0.0723007485139661
+Her Yerde Sen,Rise–Fall–Rise,8,Philippines,"September 19, 2020",0,Asia,0.1298888,0.6621582412275726
+Inadina Ask,Rise–Fall–Rise,2,India,"December 6, 2015",0,Asia,0.0793723,0.33051190066537
+Inadina Ask,Rise–Fall–Rise,3,Brazil,"January 10, 2016",0,South America,0.3063638,0.7086143745052557
+Istanbullu Gelin,Rise–Fall–Rise,1,Australia,"March 3, 2017",0,Oceania,0.7100703,1.0
+Istanbullu Gelin,Rise–Fall–Rise,3,United Arab Emirates,"May 4, 2017",0,Asia,0.01,0.1912597721024848
+Istanbullu Gelin,Rise–Fall–Rise,6,Argentina,"May 9, 2022",0,South America,0.4332813,0.8508386475808689
+Istanbullu Gelin,Rise–Fall–Rise,7,Colombia,"November 8, 2023",0,South America,0.2205247,0.8132553049630942
+Istanbullu Gelin,Rise–Fall–Rise,4,Poland,"September 30, 2019",0,Europe,0.324006,0.1233551371653434
+Istanbullu Gelin,Rise–Fall–Rise,5,Singapore,"September 10, 2021",0,Asia,0.230165,0.583682754347835
+Kagit Ev,Fall–Rise–Fall,3,United Arab Emirates,"April 20, 2021",2,Asia,0.01,0.1912597721024848
+Kagit Ev,Fall–Rise–Fall,6,Singapore,"April 20, 2021",2,Asia,0.230165,0.583682754347835
+Kagit Ev,Fall–Rise–Fall,4,Indonesia,"April 20, 2021",2,Asia,0.0833755,0.6296538091518518
+Kagit Ev,Fall–Rise–Fall,5,Philippines,"April 20, 2021",2,Asia,0.1298888,0.6621582412275726
+Kalbimdeki Deniz,Fall–Rise,2,United Arab Emirates,"October 23, 2016",1,Asia,0.01,0.1912597721024848
+Kalbimdeki Deniz,Fall–Rise,3,Tunisia,"June 9, 2018",1,Africa,0.1240503,0.1653694165552963
+Kalp Atisi,Rise–Fall–Rise,1,France,"June 30, 2017",0,Europe,0.6693177,0.2295492047563604
+Kalp Atisi,Rise–Fall–Rise,3,Egypt,"April 18, 2018",0,Africa,0.3713828,0.0723007485139661
+Kalp Atisi,Rise–Fall–Rise,6,Philippines,"January 19, 2020",0,Asia,0.1298888,0.6621582412275726
+Kalp Atisi,Rise–Fall–Rise,4,United Arab Emirates,"January 19, 2020",0,Asia,0.01,0.1912597721024848
+Kalp Atisi,Rise–Fall–Rise,5,India,"January 19, 2020",0,Asia,0.0793723,0.33051190066537
+Kanatsiz Kuslar,Fall–Rise,2,Argentina,"May 20, 2020",1,South America,0.4332813,0.8508386475808689
+Kanunsuz Topraklar,Fall–Rise,3,United Arab Emirates,"September 30, 2021",1,Asia,0.01,0.1912597721024848
+Kanunsuz Topraklar,Fall–Rise,4,Singapore,"September 30, 2021",1,Asia,0.230165,0.583682754347835
+Kara Para Ask,Fall–Rise,1,Poland,"March 12, 2014",1,Europe,0.324006,0.1233551371653434
+Kara Para Ask,Fall–Rise,3,United States,"March 12, 2014",1,North America,0.534117,0.7936160860974052
+Kara Para Ask,Fall–Rise,6,South Africa,"March 13, 2014",1,Africa,0.3910609,0.5433682377844444
+Kara Para Ask,Fall–Rise,7,Tunisia,"May 18, 2017",1,Africa,0.1240503,0.1653694165552963
+Kara Para Ask,Fall–Rise,4,Egypt,"March 13, 2014",1,Africa,0.3713828,0.0723007485139661
+Kara Para Ask,Fall–Rise,10,Spain,"May 28, 2018",1,Europe,0.7732433,0.2640219694512341
+Kara Para Ask,Fall–Rise,11,Mexico,"September 4, 2018",1,North America,0.4145935,0.9646369383912728
+Kara Para Ask,Fall–Rise,12,United Arab Emirates,"October 15, 2019",1,Asia,0.01,0.1912597721024848
+Kara Para Ask,Fall–Rise,13,Australia,"October 15, 2019",1,Oceania,0.7100703,1.0
+Kara Para Ask,Fall–Rise,14,India,"October 15, 2019",1,Asia,0.0793723,0.33051190066537
+Kara Para Ask,Fall–Rise,15,Netherlands,"October 15, 2019",1,Europe,0.8124272,0.2210696091685343
+Kara Para Ask,Fall–Rise,17,Germany,"October 16, 2019",1,Europe,0.7842516,0.1673367793261102
+Kara Para Ask,Fall–Rise,18,France,"October 16, 2019",1,Europe,0.6693177,0.2295492047563604
+Kara Para Ask,Fall–Rise,19,Sweden,"October 16, 2019",1,Europe,1.0,0.1762383532841106
+Kara Para Ask,Fall–Rise,20,Philippines,"October 17, 2019",1,Asia,0.1298888,0.6621582412275726
+Kara Para Ask,Fall–Rise,21,Albania,2021,1,Europe,0.1458853,0.0946830751966958
+Kara Para Ask,Fall–Rise,22,Bulgaria,2021,1,Europe,0.3135629,0.0716856485326808
+Kara Para Ask,Fall–Rise,5,Indonesia,"March 13, 2014",1,Asia,0.0833755,0.6296538091518518
+Kara Para Ask,Fall–Rise,8,Hungary,"July 3, 2017",1,Europe,0.5444989,0.1137859404272508
+Kara Para Ask,Fall–Rise,9,Argentina,"February 14, 2018",1,South America,0.4332813,0.8508386475808689
+Kara Para Ask,Fall–Rise,23,Bolivia,2021,1,South America,0.250635,0.8354895501402347
+Kara Para Ask,Fall–Rise,24,Chile,2021,1,South America,0.5071435,0.9162254294559404
+Kara Para Ask,Fall–Rise,25,Colombia,2021,1,South America,0.2205247,0.8132553049630942
+Kara Para Ask,Fall–Rise,28,Ethiopia,2021,1,Africa,0.2245144,0.2271310724248373
+Kara Para Ask,Fall–Rise,29,Georgia,2021,1,Asia,0.0282454,0.0874535238246013
+Kara Para Ask,Fall–Rise,26,Algeria,2021,1,Africa,0.2221269,0.2165028093958675
+Kara Para Ask,Fall–Rise,30,Ghana,2021,1,Africa,0.2619096,0.3443143636705781
+Kara Para Ask,Fall–Rise,31,Croatia,2021,1,Europe,0.3995508,0.1290931496252333
+Kara Para Ask,Fall–Rise,33,Iran,2021,1,Asia,0.0628783,0.1375124445961907
+Kara Para Ask,Fall–Rise,34,Kuwait,2021.0,1,Asia,0.1024416,0.1331671118010109
+Kara Para Ask,Fall–Rise,35,Lebanon,2021.0,1,Asia,0.2565756,0.0474378776353297
+Kara Para Ask,Fall–Rise,36,Montenegro,2021.0,1,Europe,0.2271691,0.099820465135311
+Kara Para Ask,Fall–Rise,37,Peru,2021.0,1,South America,0.2758466,0.877777612811714
+Kara Para Ask,Fall–Rise,38,Pakistan,2021.0,1,Asia,0.2619694,0.2937933291429401
+Kara Para Ask,Fall–Rise,39,Romania,2021.0,1,Europe,0.1800707,0.0586365099624731
+Kara Para Ask,Fall–Rise,40,Serbia,2021.0,1,Europe,0.32449,0.0962187253711724
+Kara Para Ask,Fall–Rise,41,Slovenia,2021.0,1,Europe,0.6981235,0.1397113557206531
+Kara Para Ask,Fall–Rise,42,Somalia,2021.0,1,Africa,,
+Kara Para Ask,Fall–Rise,43,Uzbekistan,2021.0,1,Asia,0.1395994,0.2627696545055626
+Kara Para Ask,Fall–Rise,45,Paraguay,"January 10, 2022",1,South America,,
+Kara Para Ask,Fall–Rise,46,Guatemala,"February 21, 2022",1,North America,0.4184706,0.9095807651353728
+Karadayi,Fall–Rise,3,Argentina,"December 1, 2015",1,South America,0.4332813,0.8508386475808689
+Karadayi,Fall–Rise,6,Australia,"July 2, 2020",1,Oceania,0.7100703,1.0
+Karadayi,Fall–Rise,7,South Africa,"July 2, 2020",1,Africa,0.3910609,0.5433682377844444
+Karadayi,Fall–Rise,4,Tunisia,"October 21, 2017",1,Africa,0.1240503,0.1653694165552963
+Karadayi,Fall–Rise,5,United Arab Emirates,"July 2, 2020",1,Asia,0.01,0.1912597721024848
+Karagul,Fall–Rise,1,France,"March 29, 2013",1,Europe,0.6693177,0.2295492047563604
+Karagul,Fall–Rise,3,Tunisia,"February 8, 2016",1,Africa,0.1240503,0.1653694165552963
+Karagul,Fall–Rise,6,India,"April 5, 2017",1,Asia,0.0793723,0.33051190066537
+Karagul,Fall–Rise,7,Spain,"October 16, 2023",1,Europe,0.7732433,0.2640219694512341
+Karagul,Fall–Rise,4,United Arab Emirates,"April 5, 2017",1,Asia,0.01,0.1912597721024848
+Karagul,Fall–Rise,5,Indonesia,"April 5, 2017",1,Asia,0.0833755,0.6296538091518518
+Kiraz Mevsimi,Fall–Rise,2,United Arab Emirates,"March 19, 2015",1,Asia,0.01,0.1912597721024848
+Kiraz Mevsimi,Fall–Rise,3,Philippines,"March 19, 2015",1,Asia,0.1298888,0.6621582412275726
+Kiraz Mevsimi,Fall–Rise,6,Indonesia,"June 24, 2020",1,Asia,0.0833755,0.6296538091518518
+Kiraz Mevsimi,Fall–Rise,7,India,"March 11, 2021",1,Asia,0.0793723,0.33051190066537
+Kiraz Mevsimi,Fall–Rise,4,Poland,"June 1, 2015",1,Europe,0.324006,0.1233551371653434
+Kiraz Mevsimi,Fall–Rise,5,Vietnam,"May 3, 2017",1,Asia,0.377932,0.5444555123376184
+Kirmizi Oda,Rise–Fall–Rise,3,United Arab Emirates,"September 5, 2020",0,Asia,0.01,0.1912597721024848
+Kirmizi Oda,Rise–Fall–Rise,6,Sweden,"April 12, 2021",0,Europe,1.0,0.1762383532841106
+Kirmizi Oda,Rise–Fall–Rise,4,Egypt,"September 11, 2020",0,Africa,0.3713828,0.0723007485139661
+Kirmizi Oda,Rise–Fall–Rise,5,Singapore,"September 11, 2020",0,Asia,0.230165,0.583682754347835
+Kizilcik Serbeti,Fall–Rise,1,France,"October 28, 2022",1,Europe,0.6693177,0.2295492047563604
+Kizilcik Serbeti,Fall–Rise,3,United Arab Emirates,"October 29, 2022",1,Asia,0.01,0.1912597721024848
+Kizilcik Serbeti,Fall–Rise,6,India,"October 29, 2022",1,Asia,0.0793723,0.33051190066537
+Kizilcik Serbeti,Fall–Rise,7,Poland,"October 29, 2022",1,Europe,0.324006,0.1233551371653434
+Kizilcik Serbeti,Fall–Rise,4,Egypt,"October 29, 2022",1,Africa,0.3713828,0.0723007485139661
+Kizilcik Serbeti,Fall–Rise,10,Spain,"January 2, 2024",1,Europe,0.7732433,0.2640219694512341
+Kizilcik Serbeti,Fall–Rise,5,Israel,"October 29, 2022",1,Asia,0.01,0.0612838137293157
+Kizilcik Serbeti,Fall–Rise,8,Singapore,"October 29, 2022",1,Asia,0.230165,0.583682754347835
+Kizilcik Serbeti,Fall–Rise,9,South Africa,"October 29, 2022",1,Africa,0.3910609,0.5433682377844444
+Kordugum,Fall–Rise–Fall,1,Brazil,"January 7, 2016",2,South America,0.3063638,0.7086143745052557
+Kordugum,Fall–Rise–Fall,2,Italy,"January 7, 2016",2,Europe,0.4192803,0.1478157140319547
+Kordugum,Fall–Rise–Fall,6,Netherlands,"February 1, 2017",2,Europe,0.8124272,0.2210696091685343
+Kordugum,Fall–Rise–Fall,7,Germany,"February 15, 2017",2,Europe,0.7842516,0.1673367793261102
+Kordugum,Fall–Rise–Fall,4,United Arab Emirates,"January 19, 2016",2,Asia,0.01,0.1912597721024848
+Kordugum,Fall–Rise–Fall,10,Sweden,"June 30, 2017",2,Europe,1.0,0.1762383532841106
+Kordugum,Fall–Rise–Fall,11,Japan,"July 1, 2017",2,Asia,0.6066421,0.7721366121005522
+Kordugum,Fall–Rise–Fall,12,India,"October 4, 2017",2,Asia,0.0793723,0.33051190066537
+Kordugum,Fall–Rise–Fall,13,Philippines,"October 4, 2017",2,Asia,0.1298888,0.6621582412275726
+Kordugum,Fall–Rise–Fall,14,Argentina,"January 7, 2019",2,South America,0.4332813,0.8508386475808689
+Kordugum,Fall–Rise–Fall,5,Australia,"January 19, 2016",2,Oceania,0.7100703,1.0
+Kordugum,Fall–Rise–Fall,8,France,"February 15, 2017",2,Europe,0.6693177,0.2295492047563604
+Kordugum,Fall–Rise–Fall,9,Poland,"June 30, 2017",2,Europe,0.324006,0.1233551371653434
+Kucuk Gelin,Fall–Rise,3,Argentina,"January 11, 2016",1,South America,0.4332813,0.8508386475808689
+Kucuk Gelin,Fall–Rise,4,Tunisia,"March 11, 2019",1,Africa,0.1240503,0.1653694165552963
+Kurt Seyit ve Sura,Fall–Rise,2,United States,"April 4, 2014",1,North America,0.534117,0.7936160860974052
+Kurt Seyit ve Sura,Fall–Rise,3,Philippines,"November 3, 2014",1,Asia,0.1298888,0.6621582412275726
+Kurt Seyit ve Sura,Fall–Rise,6,United Arab Emirates,"July 9, 2021",1,Asia,0.01,0.1912597721024848
+Kurt Seyit ve Sura,Fall–Rise,7,Italy,"June 9, 2023",1,Europe,0.4192803,0.1478157140319547
+Kurt Seyit ve Sura,Fall–Rise,4,Hungary,"January 9, 2015",1,Europe,0.5444989,0.1137859404272508
+Kurt Seyit ve Sura,Fall–Rise,5,Argentina,"January 8, 2018",1,South America,0.4332813,0.8508386475808689
+Kusursuz Kiraci,Fall–Rise–Fall,1,Thailand,"August 30, 2022",2,Asia,0.3391781,0.5240321081565626
+Kusursuz Kiraci,Fall–Rise–Fall,3,Egypt,"August 31, 2022",2,Africa,0.3713828,0.0723007485139661
+Kusursuz Kiraci,Fall–Rise–Fall,6,Singapore,"August 31, 2022",2,Asia,0.230165,0.583682754347835
+Kusursuz Kiraci,Fall–Rise–Fall,4,India,"August 31, 2022",2,Asia,0.0793723,0.33051190066537
+Kusursuz Kiraci,Fall–Rise–Fall,5,Philippines,"August 31, 2022",2,Asia,0.1298888,0.6621582412275726
+Kuzey Guney,Fall–Rise–Fall,2,Hungary,"October 6, 2014",2,Europe,0.5444989,0.1137859404272508
+Kuzey Guney,Fall–Rise–Fall,6,United Arab Emirates,"January 27, 2020",2,Asia,0.01,0.1912597721024848
+Kuzey Guney,Fall–Rise–Fall,7,Egypt,"January 27, 2020",2,Africa,0.3713828,0.0723007485139661
+Kuzey Guney,Fall–Rise–Fall,5,France,"February 14, 2019",2,Europe,0.6693177,0.2295492047563604
+Kuzgun,Fall–Rise–Fall,2,India,"February 13, 2019",2,Asia,0.0793723,0.33051190066537
+Kuzgun,Fall–Rise–Fall,6,United Arab Emirates,"February 20, 2019",2,Asia,0.01,0.1912597721024848
+Kuzgun,Fall–Rise–Fall,7,Poland,"August 1, 2021",2,Europe,0.324006,0.1233551371653434
+Kuzgun,Fall–Rise–Fall,4,Egypt,"February 14, 2019",2,Africa,0.3713828,0.0723007485139661
+Kuzgun,Fall–Rise–Fall,5,Indonesia,"February 14, 2019",2,Asia,0.0833755,0.6296538091518518
+Marasli,Fall–Rise,3,United Arab Emirates,"January 12, 2021",1,Asia,0.01,0.1912597721024848
+Marasli,Fall–Rise,6,Philippines,"January 12, 2021",1,Asia,0.1298888,0.6621582412275726
+Marasli,Fall–Rise,7,South Africa,"January 12, 2021",1,Africa,0.3910609,0.5433682377844444
+Marasli,Fall–Rise,4,Indonesia,"January 12, 2021",1,Asia,0.0833755,0.6296538091518518
+Marasli,Fall–Rise,5,India,"January 12, 2021",1,Asia,0.0793723,0.33051190066537
+Masumlar Apartmani,Rise–Fall–Rise,3,United Arab Emirates,"September 16, 2020",0,Asia,0.01,0.1912597721024848
+Masumlar Apartmani,Rise–Fall–Rise,4,Spain,"July 22, 2021",0,Europe,0.7732433,0.2640219694512341
+Masumlar Apartmani,Rise–Fall–Rise,5,Puerto Rico,"October 29, 2024",0,North America,0.3907067,0.7312456357427054
+Medcezir,Fall–Rise,1,France,"September 13, 2013",1,Europe,0.6693177,0.2295492047563604
+Medcezir,Fall–Rise,3,Argentina,"February 7, 2017",1,South America,0.4332813,0.8508386475808689
+Medcezir,Fall–Rise,4,Australia,"December 25, 2021",1,Oceania,0.7100703,1.0
+Menajerimi Ara,Rise–Fall–Rise,1,France,"August 25, 2020",0,Europe,0.6693177,0.2295492047563604
+Menajerimi Ara,Rise–Fall–Rise,2,Italy,"August 25, 2020",0,Europe,0.4192803,0.1478157140319547
+Menajerimi Ara,Rise–Fall–Rise,6,Philippines,"August 26, 2020",0,Asia,0.1298888,0.6621582412275726
+Menajerimi Ara,Rise–Fall–Rise,7,Singapore,"August 26, 2020",0,Asia,0.230165,0.583682754347835
+Menajerimi Ara,Rise–Fall–Rise,5,United Arab Emirates,"August 26, 2020",0,Asia,0.01,0.1912597721024848
+Mucize Doktor,Fall–Rise,1,Australia,"September 12, 2019",1,Oceania,0.7100703,1.0
+Mucize Doktor,Fall–Rise,2,India,"September 12, 2019",1,Asia,0.0793723,0.33051190066537
+Mucize Doktor,Fall–Rise,6,South Africa,"October 3, 2019",1,Africa,0.3910609,0.5433682377844444
+Mucize Doktor,Fall–Rise,7,Hungary,"January 4, 2021",1,Europe,0.5444989,0.1137859404272508
+Mucize Doktor,Fall–Rise,4,United Arab Emirates,"October 3, 2019",1,Asia,0.01,0.1912597721024848
+Mucize Doktor,Fall–Rise,10,Spain,"March 25, 2023",1,Europe,0.7732433,0.2640219694512341
+Mucize Doktor,Fall–Rise,5,Philippines,"October 3, 2019",1,Asia,0.1298888,0.6621582412275726
+Mucize Doktor,Fall–Rise,8,Argentina,"April 12, 2021",1,South America,0.4332813,0.8508386475808689
+Mucize Doktor,Fall–Rise,9,Ecuador,"August 9, 2021",1,South America,0.1381429,0.8549951931784503
+O Hayat Benim,Fall–Rise,1,Brazil,"February 16, 2014",1,South America,0.3063638,0.7086143745052557
+O Hayat Benim,Fall–Rise,3,Australia,"August 7, 2014",1,Oceania,0.7100703,1.0
+O Hayat Benim,Fall–Rise,4,Tunisia,"February 20, 2017",1,Africa,0.1240503,0.1653694165552963
+O Hayat Benim,Fall–Rise,5,Mexico,"July 3, 2017",1,North America,0.4145935,0.9646369383912728
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,1,United Arab Emirates,"March 3, 2022",0,Asia,0.01,0.1912597721024848
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,2,Argentina,"March 3, 2022",0,South America,0.4332813,0.8508386475808689
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,3,Australia,"March 3, 2022",0,Oceania,0.7100703,1.0
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,6,Germany,"March 3, 2022",0,Europe,0.7842516,0.1673367793261102
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,7,Ecuador,"March 3, 2022",0,South America,0.1381429,0.8549951931784503
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,4,Brazil,"March 3, 2022",0,South America,0.3063638,0.7086143745052557
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,10,France,"March 3, 2022",0,Europe,0.6693177,0.2295492047563604
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,11,United Kingdom,"March 3, 2022",0,Europe,0.6967751,0.2524422168955692
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,12,Hong Kong,"March 3, 2022",0,Asia,0.6070375,0.6008196576520627
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,13,Indonesia,"March 3, 2022",0,Asia,0.0833755,0.6296538091518518
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,14,India,"March 3, 2022",0,Asia,0.0793723,0.33051190066537
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,15,Italy,"March 3, 2022",0,Europe,0.4192803,0.1478157140319547
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,16,Japan,"March 3, 2022",0,Asia,0.6066421,0.7721366121005522
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,17,South Korea,"March 3, 2022",0,Asia,0.7258395,0.6799317781731508
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,18,Mexico,"March 3, 2022",0,North America,0.4145935,0.9646369383912728
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,19,Netherlands,"March 3, 2022",0,Europe,0.8124272,0.2210696091685343
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,20,Philippines,"March 3, 2022",0,Asia,0.1298888,0.6621582412275726
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,21,Poland,"March 3, 2022",0,Europe,0.324006,0.1233551371653434
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,22,Sweden,"March 3, 2022",0,Europe,1.0,0.1762383532841106
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,5,Canada,"March 3, 2022",0,North America,0.5667968,0.7849206074012037
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,8,Egypt,"March 3, 2022",0,Africa,0.3713828,0.0723007485139661
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,9,Spain,"March 3, 2022",0,Europe,0.7732433,0.2640219694512341
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,23,Singapore,"March 3, 2022",0,Asia,0.230165,0.583682754347835
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,24,Thailand,"March 3, 2022",0,Asia,0.3391781,0.5240321081565626
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,27,United States,"March 3, 2022",0,North America,0.534117,0.7936160860974052
+Pera Palas’ta Gece Yarisi,Rise–Fall–Rise,26,Taiwan,"March 3, 2022",0,Asia,0.4713243,0.649589846721192
+Ramo,Rise–Fall–Rise,2,France,"January 14, 2020",0,Europe,0.6693177,0.2295492047563604
+Ramo,Rise–Fall–Rise,3,Italy,"January 14, 2020",0,Europe,0.4192803,0.1478157140319547
+Ramo,Rise–Fall–Rise,6,India,"January 15, 2020",0,Asia,0.0793723,0.33051190066537
+Ramo,Rise–Fall–Rise,7,Singapore,"January 15, 2020",0,Asia,0.230165,0.583682754347835
+Ramo,Rise–Fall–Rise,5,Indonesia,"January 15, 2020",0,Asia,0.0833755,0.6296538091518518
+Ramo,Rise–Fall–Rise,8,South Africa,"January 15, 2020",0,Africa,0.3910609,0.5433682377844444
+Ramo,Rise–Fall–Rise,9,United Arab Emirates,"June 15, 2020",0,Asia,0.01,0.1912597721024848
+Sahsiyet,Fall–Rise–Fall,1,France,"March 17, 2018",2,Europe,0.6693177,0.2295492047563604
+Sahsiyet,Fall–Rise–Fall,2,United Kingdom,"March 17, 2018",2,Europe,0.6967751,0.2524422168955692
+Sahsiyet,Fall–Rise–Fall,4,Germany,"October 8, 2020",2,Europe,0.7842516,0.1673367793261102
+Sahsiyet,Fall–Rise–Fall,5,United States,"December 2, 2021",2,North America,0.534117,0.7936160860974052
+Sakli,Fall–Rise–Fall,1,Poland,"November 23, 2021",2,Europe,0.324006,0.1233551371653434
+Sefirin Kizi,Fall–Rise–Fall,2,France,"December 16, 2019",2,Europe,0.6693177,0.2295492047563604
+Sefirin Kizi,Fall–Rise–Fall,3,Philippines,"December 16, 2019",2,Asia,0.1298888,0.6621582412275726
+Sefirin Kizi,Fall–Rise–Fall,6,Indonesia,"December 17, 2019",2,Asia,0.0833755,0.6296538091518518
+Sefirin Kizi,Fall–Rise–Fall,7,India,"December 17, 2019",2,Asia,0.0793723,0.33051190066537
+Sefirin Kizi,Fall–Rise–Fall,10,Iran,"February 1, 2020",2,Asia,0.0628783,0.1375124445961907
+Sefirin Kizi,Fall–Rise–Fall,11,Iraq,"May 31, 2020",2,Asia,0.2896176,0.0959709314636149
+Sefirin Kizi,Fall–Rise–Fall,12,Uzbekistan,"June 29, 2020",2,Asia,0.1395994,0.2627696545055626
+Sefirin Kizi,Fall–Rise–Fall,13,Albania,"September 26, 2020",2,Europe,0.1458853,0.0946830751966958
+Sefirin Kizi,Fall–Rise–Fall,14,Angola,"October 21, 2020",2,Africa,,
+Sefirin Kizi,Fall–Rise–Fall,15,Mozambique,"October 21, 2020",2,Africa,,
+Sefirin Kizi,Fall–Rise–Fall,16,Kazakhstan,"December 7, 2020",2,Asia,0.2559081,0.2903128685434853
+Sefirin Kizi,Fall–Rise–Fall,17,Oman,2021,2,Asia,,
+Sefirin Kizi,Fall–Rise–Fall,18,Lebanon,"January 1, 2021",2,Asia,0.2565756,0.0474378776353297
+Sefirin Kizi,Fall–Rise–Fall,19,Croatia,"January 4, 2021",2,Europe,0.3995508,0.1290931496252333
+Sefirin Kizi,Fall–Rise–Fall,20,Canada,"March 2, 2021",2,North America,0.5667968,0.7849206074012037
+Sefirin Kizi,Fall–Rise–Fall,21,United States,"March 2, 2021",2,North America,0.534117,0.7936160860974052
+Sefirin Kizi,Fall–Rise–Fall,22,Bosnia and Herzegovina,"March 8, 2021",2,Europe,0.188779,0.1084733572133768
+Sefirin Kizi,Fall–Rise–Fall,5,United Arab Emirates,"December 17, 2019",2,Asia,0.01,0.1912597721024848
+Sefirin Kizi,Fall–Rise–Fall,8,Saudi Arabia,"December 19, 2019",2,Asia,0.0949598,0.1486840479923277
+Sefirin Kizi,Fall–Rise–Fall,9,Somalia,"January 1, 2020",2,Africa,,
+Sefirin Kizi,Fall–Rise–Fall,23,Uruguay,"March 8, 2021",2,South America,0.529175,0.8394705486382147
+Sefirin Kizi,Fall–Rise–Fall,24,Georgia,"April 5, 2021",2,Asia,0.0282454,0.0874535238246013
+Sefirin Kizi,Fall–Rise–Fall,25,Hungary,"May 17, 2021",2,Europe,0.5444989,0.1137859404272508
+Sefirin Kizi,Fall–Rise–Fall,27,Honduras,"November 10, 2021",2,North America,,
+Sefirin Kizi,Fall–Rise–Fall,28,Romania,"January 3, 2022",2,Europe,0.1800707,0.0586365099624731
+Sefirin Kizi,Fall–Rise–Fall,29,Puerto Rico,"January 10, 2022",2,North America,0.3907067,0.7312456357427054
+Sefirin Kizi,Fall–Rise–Fall,26,Egypt,"October 10, 2021",2,Africa,0.3713828,0.0723007485139661
+Sefirin Kizi,Fall–Rise–Fall,30,Ukraine,"January 17, 2022",2,Europe,0.5116708,0.0778594822686999
+Sefirin Kizi,Fall–Rise–Fall,31,Spain,"January 29, 2022",2,Europe,0.7732433,0.2640219694512341
+Sefirin Kizi,Fall–Rise–Fall,33,Australia,"October 4, 2022",2,Oceania,0.7100703,1.0
+Sefirin Kizi,Fall–Rise–Fall,32,Serbia,"February 7, 2022",2,Europe,0.32449,0.0962187253711724
+Sen Anlat Karadeniz,Fall–Rise,1,France,"January 24, 2018",1,Europe,0.6693177,0.2295492047563604
+Sen Anlat Karadeniz,Fall–Rise,2,Philippines,"January 24, 2018",1,Asia,0.1298888,0.6621582412275726
+Sen Anlat Karadeniz,Fall–Rise,6,India,"January 25, 2018",1,Asia,0.0793723,0.33051190066537
+Sen Anlat Karadeniz,Fall–Rise,7,Argentina,"January 24, 2022",1,South America,0.4332813,0.8508386475808689
+Sen Anlat Karadeniz,Fall–Rise,4,United Arab Emirates,"January 25, 2018",1,Asia,0.01,0.1912597721024848
+Sen Anlat Karadeniz,Fall–Rise,5,Indonesia,"January 25, 2018",1,Asia,0.0833755,0.6296538091518518
+Siyah Beyaz Ask,Fall–Rise–Fall,2,United States,"October 16, 2017",2,North America,0.534117,0.7936160860974052
+Siyah Beyaz Ask,Fall–Rise–Fall,3,France,"April 1, 2019",2,Europe,0.6693177,0.2295492047563604
+Siyah Beyaz Ask,Fall–Rise–Fall,6,Brazil,"September 5, 2021",2,South America,0.3063638,0.7086143745052557
+Siyah Beyaz Ask,Fall–Rise–Fall,4,United Arab Emirates,"September 12, 2019",2,Asia,0.01,0.1912597721024848
+Siyah Beyaz Ask,Fall–Rise–Fall,5,Egypt,"December 24, 2020",2,Africa,0.3713828,0.0723007485139661
+Siyah Inci,Rise–Fall,1,France,"September 28, 2017",0,Europe,0.6693177,0.2295492047563604
+Siyah Inci,Rise–Fall,2,Italy,"September 28, 2017",0,Europe,0.4192803,0.1478157140319547
+Siyah Inci,Rise–Fall,6,India,"August 27, 2021",0,Asia,0.0793723,0.33051190066537
+Siyah Inci,Rise–Fall,7,Philippines,"August 27, 2021",0,Asia,0.1298888,0.6621582412275726
+Siyah Inci,Rise–Fall,4,Poland,"May 7, 2018",0,Europe,0.324006,0.1233551371653434
+Siyah Inci,Rise–Fall,10,Spain,"April 24, 2023",0,Europe,0.7732433,0.2640219694512341
+Siyah Inci,Rise–Fall,5,United Arab Emirates,"August 27, 2021",0,Asia,0.01,0.1912597721024848
+Siyah Inci,Rise–Fall,8,Indonesia,"April 29, 2022",0,Asia,0.0833755,0.6296538091518518
+Sol Yanim,Rise–Fall–Rise,1,Australia,2020,0,Oceania,0.7100703,1.0
+Sol Yanim,Rise–Fall–Rise,3,Brazil,2020,0,South America,0.3063638,0.7086143745052557
+Sol Yanim,Rise–Fall–Rise,7,Germany,2020,0,Europe,0.7842516,0.1673367793261102
+Sol Yanim,Rise–Fall–Rise,11,France,2020,0,Europe,0.6693177,0.2295492047563604
+Sol Yanim,Rise–Fall–Rise,13,Japan,2020,0,Asia,0.6066421,0.7721366121005522
+Sol Yanim,Rise–Fall–Rise,15,Mexico,2020,0,North America,0.4145935,0.9646369383912728
+Sol Yanim,Rise–Fall–Rise,16,United States,2020,0,North America,0.534117,0.7936160860974052
+Sol Yanim,Rise–Fall–Rise,18,Indonesia,"November 26, 2020",0,Asia,0.0833755,0.6296538091518518
+Sol Yanim,Rise–Fall–Rise,19,Italy,"November 26, 2020",0,Europe,0.4192803,0.1478157140319547
+Sol Yanim,Rise–Fall–Rise,20,Poland,"November 26, 2020",0,Europe,0.324006,0.1233551371653434
+Sol Yanim,Rise–Fall–Rise,22,India,"November 27, 2020",0,Asia,0.0793723,0.33051190066537
+Sol Yanim,Rise–Fall–Rise,5,Canada,2020,0,North America,0.5667968,0.7849206074012037
+Sol Yanim,Rise–Fall–Rise,9,Spain,2020,0,Europe,0.7732433,0.2640219694512341
+Sol Yanim,Rise–Fall–Rise,23,United Arab Emirates,"June 24, 2021",0,Asia,0.01,0.1912597721024848
+Sol Yanim,Rise–Fall–Rise,24,Philippines,"June 24, 2021",0,Asia,0.1298888,0.6621582412275726
+Sol Yanim,Rise–Fall–Rise,25,Singapore,"June 24, 2021",0,Asia,0.230165,0.583682754347835
+Sol Yanim,Rise–Fall–Rise,26,United Kingdom,"September 14, 2021",0,Europe,0.6967751,0.2524422168955692
+Son Yaz,Fall–Rise,1,France,"January 1, 2021",1,Europe,0.6693177,0.2295492047563604
+Son Yaz,Fall–Rise,2,Philippines,"January 1, 2021",1,Asia,0.1298888,0.6621582412275726
+Son Yaz,Fall–Rise,6,Israel,"January 2, 2021",1,Asia,0.01,0.0612838137293157
+Son Yaz,Fall–Rise,7,India,"January 2, 2021",1,Asia,0.0793723,0.33051190066537
+Son Yaz,Fall–Rise,4,Egypt,"January 2, 2021",1,Africa,0.3713828,0.0723007485139661
+Son Yaz,Fall–Rise,5,Indonesia,"January 2, 2021",1,Asia,0.0833755,0.6296538091518518
+Son Yaz,Fall–Rise,8,South Africa,"January 2, 2021",1,Africa,0.3910609,0.5433682377844444
+Son Yaz,Fall–Rise,9,United Arab Emirates,"July 9, 2021",1,Asia,0.01,0.1912597721024848
+Stiletto Vendetta,Fall–Rise–Fall,2,United Arab Emirates,"October 25, 2017",2,Asia,0.01,0.1912597721024848
+Stiletto Vendetta,Fall–Rise–Fall,3,Egypt,"October 25, 2017",2,Africa,0.3713828,0.0723007485139661
+Stiletto Vendetta,Fall–Rise–Fall,6,Australia,"January 7, 2022",2,Oceania,0.7100703,1.0
+Stiletto Vendetta,Fall–Rise–Fall,7,Mexico,"February 3, 2022",2,North America,0.4145935,0.9646369383912728
+Stiletto Vendetta,Fall–Rise–Fall,4,Israel,"October 25, 2017",2,Asia,0.01,0.0612838137293157
+Stiletto Vendetta,Fall–Rise–Fall,10,Hungary,"January 23, 2024",2,Europe,0.5444989,0.1137859404272508
+Stiletto Vendetta,Fall–Rise–Fall,5,Tunisia,"April 24, 2020",2,Africa,0.1240503,0.1653694165552963
+Stiletto Vendetta,Fall–Rise–Fall,8,Singapore,"April 26, 2022",2,Asia,0.230165,0.583682754347835
+Stiletto Vendetta,Fall–Rise–Fall,9,Thailand,"April 26, 2022",2,Asia,0.3391781,0.5240321081565626
+Terzi,Rise–Fall–Rise,1,United Arab Emirates,"May 2, 2023",0,Asia,0.01,0.1912597721024848
+Terzi,Rise–Fall–Rise,2,Argentina,"May 2, 2023",0,South America,0.4332813,0.8508386475808689
+Terzi,Rise–Fall–Rise,3,Australia,"May 2, 2023",0,Oceania,0.7100703,1.0
+Terzi,Rise–Fall–Rise,6,Germany,"May 2, 2023",0,Europe,0.7842516,0.1673367793261102
+Terzi,Rise–Fall–Rise,7,Ecuador,"May 2, 2023",0,South America,0.1381429,0.8549951931784503
+Terzi,Rise–Fall–Rise,4,Brazil,"May 2, 2023",0,South America,0.3063638,0.7086143745052557
+Terzi,Rise–Fall–Rise,10,United Kingdom,"May 2, 2023",0,Europe,0.6967751,0.2524422168955692
+Terzi,Rise–Fall–Rise,11,Hong Kong,"May 2, 2023",0,Asia,0.6070375,0.6008196576520627
+Terzi,Rise–Fall–Rise,12,Israel,"May 2, 2023",0,Asia,0.01,0.0612838137293157
+Terzi,Rise–Fall–Rise,13,India,"May 2, 2023",0,Asia,0.0793723,0.33051190066537
+Terzi,Rise–Fall–Rise,14,Italy,"May 2, 2023",0,Europe,0.4192803,0.1478157140319547
+Terzi,Rise–Fall–Rise,15,Japan,"May 2, 2023",0,Asia,0.6066421,0.7721366121005522
+Terzi,Rise–Fall–Rise,16,Mexico,"May 2, 2023",0,North America,0.4145935,0.9646369383912728
+Terzi,Rise–Fall–Rise,17,Netherlands,"May 2, 2023",0,Europe,0.8124272,0.2210696091685343
+Terzi,Rise–Fall–Rise,18,Philippines,"May 2, 2023",0,Asia,0.1298888,0.6621582412275726
+Terzi,Rise–Fall–Rise,19,Poland,"May 2, 2023",0,Europe,0.324006,0.1233551371653434
+Terzi,Rise–Fall–Rise,20,Singapore,"May 2, 2023",0,Asia,0.230165,0.583682754347835
+Terzi,Rise–Fall–Rise,22,Taiwan,"May 2, 2023",0,Asia,0.4713243,0.649589846721192
+Terzi,Rise–Fall–Rise,5,Canada,"May 2, 2023",0,North America,0.5667968,0.7849206074012037
+Terzi,Rise–Fall–Rise,8,Spain,"May 2, 2023",0,Europe,0.7732433,0.2640219694512341
+Terzi,Rise–Fall–Rise,9,France,"May 2, 2023",0,Europe,0.6693177,0.2295492047563604
+Terzi,Rise–Fall–Rise,23,United States,"May 2, 2023",0,North America,0.534117,0.7936160860974052
+Terzi,Rise–Fall–Rise,24,South Africa,"May 2, 2023",0,Africa,0.3910609,0.5433682377844444
+Tozluyaka,Fall–Rise,2,Germany,"June 28, 2022",1,Europe,0.7842516,0.1673367793261102
+Tozluyaka,Fall–Rise,3,India,"June 28, 2022",1,Asia,0.0793723,0.33051190066537
+Tozluyaka,Fall–Rise,6,Egypt,"July 28, 2022",1,Africa,0.3713828,0.0723007485139661
+Tozluyaka,Fall–Rise,4,Philippines,"June 28, 2022",1,Asia,0.1298888,0.6621582412275726
+Tozluyaka,Fall–Rise,5,South Africa,"June 28, 2022",1,Africa,0.3910609,0.5433682377844444
+Uc Kurus,Rise–Fall–Rise,2,United Arab Emirates,"November 2, 2021",0,Asia,0.01,0.1912597721024848
+Uc Kurus,Rise–Fall–Rise,3,Australia,"November 2, 2021",0,Oceania,0.7100703,1.0
+Uc Kurus,Rise–Fall–Rise,6,Indonesia,"November 2, 2021",0,Asia,0.0833755,0.6296538091518518
+Uc Kurus,Rise–Fall–Rise,7,Philippines,"November 2, 2021",0,Asia,0.1298888,0.6621582412275726
+Uc Kurus,Rise–Fall–Rise,4,Egypt,"November 2, 2021",0,Africa,0.3713828,0.0723007485139661
+Uc Kurus,Rise–Fall–Rise,5,United Kingdom,"November 2, 2021",0,Europe,0.6967751,0.2524422168955692
+Umutsuz Ev Kadinlari,others,3,United Arab Emirates,"April 2, 2018",0,Asia,0.01,0.1912597721024848
+Uysallar,Rise–Fall–Rise,1,United Arab Emirates,"March 30, 2022",0,Asia,0.01,0.1912597721024848
+Uysallar,Rise–Fall–Rise,2,Argentina,"March 30, 2022",0,South America,0.4332813,0.8508386475808689
+Uysallar,Rise–Fall–Rise,3,Australia,"March 30, 2022",0,Oceania,0.7100703,1.0
+Uysallar,Rise–Fall–Rise,6,France,"March 30, 2022",0,Europe,0.6693177,0.2295492047563604
+Uysallar,Rise–Fall–Rise,7,Indonesia,"March 30, 2022",0,Asia,0.0833755,0.6296538091518518
+Uysallar,Rise–Fall–Rise,4,Brazil,"March 30, 2022",0,South America,0.3063638,0.7086143745052557
+Uysallar,Rise–Fall–Rise,10,Japan,"March 30, 2022",0,Asia,0.6066421,0.7721366121005522
+Uysallar,Rise–Fall–Rise,11,South Korea,"March 30, 2022",0,Asia,0.7258395,0.6799317781731508
+Uysallar,Rise–Fall–Rise,12,Netherlands,"March 30, 2022",0,Europe,0.8124272,0.2210696091685343
+Uysallar,Rise–Fall–Rise,13,Poland,"March 30, 2022",0,Europe,0.324006,0.1233551371653434
+Uysallar,Rise–Fall–Rise,14,Sweden,"March 30, 2022",0,Europe,1.0,0.1762383532841106
+Uysallar,Rise–Fall–Rise,15,Singapore,"March 30, 2022",0,Asia,0.230165,0.583682754347835
+Uysallar,Rise–Fall–Rise,5,Germany,"March 30, 2022",0,Europe,0.7842516,0.1673367793261102
+Uysallar,Rise–Fall–Rise,8,Israel,"March 30, 2022",0,Asia,0.01,0.0612838137293157
+Uysallar,Rise–Fall–Rise,9,India,"March 30, 2022",0,Asia,0.0793723,0.33051190066537
+Uzak Sehrin Masali,Fall–Rise,3,Australia,"September 13, 2021",1,Oceania,0.7100703,1.0
+Vatanim Sensin,Fall–Rise–Fall,1,United States,2016,2,North America,0.534117,0.7936160860974052
+Vatanim Sensin,Fall–Rise–Fall,6,France,"November 1, 2016",2,Europe,0.6693177,0.2295492047563604
+Vatanim Sensin,Fall–Rise–Fall,7,Argentina,"March 11, 2019",2,South America,0.4332813,0.8508386475808689
+Vatanim Sensin,Fall–Rise–Fall,4,Australia,"October 27, 2016",2,Oceania,0.7100703,1.0
+Vatanim Sensin,Fall–Rise–Fall,10,Indonesia,"July 11, 2019",2,Asia,0.0833755,0.6296538091518518
+Vatanim Sensin,Fall–Rise–Fall,11,India,"July 11, 2019",2,Asia,0.0793723,0.33051190066537
+Vatanim Sensin,Fall–Rise–Fall,12,Philippines,"July 11, 2019",2,Asia,0.1298888,0.6621582412275726
+Vatanim Sensin,Fall–Rise–Fall,13,Singapore,"July 11, 2019",2,Asia,0.230165,0.583682754347835
+Vatanim Sensin,Fall–Rise–Fall,14,Poland,"March 5, 2020",2,Europe,0.324006,0.1233551371653434
+Vatanim Sensin,Fall–Rise–Fall,8,United Arab Emirates,"July 11, 2019",2,Asia,0.01,0.1912597721024848
+Vatanim Sensin,Fall–Rise–Fall,9,Egypt,"July 11, 2019",2,Africa,0.3713828,0.0723007485139661
+Veda Mektubu,Rise–Fall–Rise,1,France,"February 27, 2023",0,Europe,0.6693177,0.2295492047563604
+Veda Mektubu,Rise–Fall–Rise,3,Vietnam,2025,0,Asia,0.377932,0.5444555123376184
+Vermem Seni Ellere,Fall–Rise–Fall,2,United Arab Emirates,"June 19, 2023",2,Asia,0.01,0.1912597721024848
+Yabanci Damat,Rise–Fall–Rise,1,Greece,"November 12, 2004",0,Europe,0.2814158,0.067270471552006
+Yabanci Damat,Rise–Fall–Rise,6,Azerbaijan,2011,0,Asia,0.167358,0.1230830717560108
+Yabanci Damat,Rise–Fall–Rise,4,Bulgaria,2009,0,Europe,0.3135629,0.0716856485326808
+Yabanci Damat,Rise–Fall–Rise,5,South Korea,2009,0,Asia,0.7258395,0.6799317781731508
+Yakamoz S-245,Fall–Rise,1,United Arab Emirates,"April 20, 2022",1,Asia,0.01,0.1912597721024848
+Yakamoz S-245,Fall–Rise,2,Argentina,"April 20, 2022",1,South America,0.4332813,0.8508386475808689
+Yakamoz S-245,Fall–Rise,3,Australia,"April 20, 2022",1,Oceania,0.7100703,1.0
+Yakamoz S-245,Fall–Rise,6,Germany,"April 20, 2022",1,Europe,0.7842516,0.1673367793261102
+Yakamoz S-245,Fall–Rise,7,Egypt,"April 20, 2022",1,Africa,0.3713828,0.0723007485139661
+Yakamoz S-245,Fall–Rise,4,Brazil,"April 20, 2022",1,South America,0.3063638,0.7086143745052557
+Yakamoz S-245,Fall–Rise,10,United Kingdom,"April 20, 2022",1,Europe,0.6967751,0.2524422168955692
+Yakamoz S-245,Fall–Rise,11,Hong Kong,"April 20, 2022",1,Asia,0.6070375,0.6008196576520627
+Yakamoz S-245,Fall–Rise,12,Indonesia,"April 20, 2022",1,Asia,0.0833755,0.6296538091518518
+Yakamoz S-245,Fall–Rise,13,India,"April 20, 2022",1,Asia,0.0793723,0.33051190066537
+Yakamoz S-245,Fall–Rise,14,Italy,"April 20, 2022",1,Europe,0.4192803,0.1478157140319547
+Yakamoz S-245,Fall–Rise,15,Japan,"April 20, 2022",1,Asia,0.6066421,0.7721366121005522
+Yakamoz S-245,Fall–Rise,16,South Korea,"April 20, 2022",1,Asia,0.7258395,0.6799317781731508
+Yakamoz S-245,Fall–Rise,17,Mexico,"April 20, 2022",1,North America,0.4145935,0.9646369383912728
+Yakamoz S-245,Fall–Rise,18,Netherlands,"April 20, 2022",1,Europe,0.8124272,0.2210696091685343
+Yakamoz S-245,Fall–Rise,19,Philippines,"April 20, 2022",1,Asia,0.1298888,0.6621582412275726
+Yakamoz S-245,Fall–Rise,20,Poland,"April 20, 2022",1,Europe,0.324006,0.1233551371653434
+Yakamoz S-245,Fall–Rise,21,Sweden,"April 20, 2022",1,Europe,1.0,0.1762383532841106
+Yakamoz S-245,Fall–Rise,22,Singapore,"April 20, 2022",1,Asia,0.230165,0.583682754347835
+Yakamoz S-245,Fall–Rise,5,Canada,"April 20, 2022",1,North America,0.5667968,0.7849206074012037
+Yakamoz S-245,Fall–Rise,8,Spain,"April 20, 2022",1,Europe,0.7732433,0.2640219694512341
+Yakamoz S-245,Fall–Rise,9,France,"April 20, 2022",1,Europe,0.6693177,0.2295492047563604
+Yakamoz S-245,Fall–Rise,23,Thailand,"April 20, 2022",1,Asia,0.3391781,0.5240321081565626
+Yakamoz S-245,Fall–Rise,25,Taiwan,"April 20, 2022",1,Asia,0.4713243,0.649589846721192
+Yakamoz S-245,Fall–Rise,26,United States,"April 20, 2022",1,North America,0.534117,0.7936160860974052
+Yargi,Rise–Fall–Rise,1,Spain,"September 19, 2021",0,Europe,0.7732433,0.2640219694512341
+Yargi,Rise–Fall–Rise,2,Mexico,"September 19, 2021",0,North America,0.4145935,0.9646369383912728
+Yargi,Rise–Fall–Rise,3,Philippines,"September 19, 2021",0,Asia,0.1298888,0.6621582412275726
+Yargi,Rise–Fall–Rise,6,United Arab Emirates,"September 20, 2021",0,Asia,0.01,0.1912597721024848
+Yargi,Rise–Fall–Rise,7,Ecuador,"September 20, 2021",0,South America,0.1381429,0.8549951931784503
+Yargi,Rise–Fall–Rise,4,Russia,"September 19, 2021",0,,0.4483133,0.1194243774165101
+Yargi,Rise–Fall–Rise,10,United Kingdom,"September 20, 2021",0,Europe,0.6967751,0.2524422168955692
+Yargi,Rise–Fall–Rise,11,Indonesia,"September 20, 2021",0,Asia,0.0833755,0.6296538091518518
+Yargi,Rise–Fall–Rise,12,Israel,"September 20, 2021",0,Asia,0.01,0.0612838137293157
+Yargi,Rise–Fall–Rise,13,India,"September 20, 2021",0,Asia,0.0793723,0.33051190066537
+Yargi,Rise–Fall–Rise,14,United States,"May 23, 2023",0,North America,0.534117,0.7936160860974052
+Yargi,Rise–Fall–Rise,8,Egypt,"September 20, 2021",0,Africa,0.3713828,0.0723007485139661
+Yargi,Rise–Fall–Rise,9,France,"September 20, 2021",0,Europe,0.6693177,0.2295492047563604
+Yarim Kalan Asklar,Fall–Rise–Fall,2,United Arab Emirates,"September 23, 2020",2,Asia,0.01,0.1912597721024848
+Yarim Kalan Asklar,Fall–Rise–Fall,3,Australia,"September 23, 2020",2,Oceania,0.7100703,1.0
+Yarim Kalan Asklar,Fall–Rise–Fall,4,India,"September 23, 2020",2,Asia,0.0793723,0.33051190066537
+Yasak Elma,Rise–Fall–Rise,2,United Arab Emirates,"July 26, 2018",0,Asia,0.01,0.1912597721024848
+Yasak Elma,Rise–Fall–Rise,3,Egypt,"July 26, 2018",0,Africa,0.3713828,0.0723007485139661
+Yasak Elma,Rise–Fall–Rise,6,Philippines,"July 26, 2018",0,Asia,0.1298888,0.6621582412275726
+Yasak Elma,Rise–Fall–Rise,7,South Africa,"July 26, 2018",0,Africa,0.3910609,0.5433682377844444
+Yasak Elma,Rise–Fall–Rise,4,Indonesia,"July 26, 2018",0,Asia,0.0833755,0.6296538091518518
+Yasak Elma,Rise–Fall–Rise,10,Paraguay,"March 14, 2022",0,South America,,
+Yasak Elma,Rise–Fall–Rise,11,Poland,"June 28, 2022",0,Europe,0.324006,0.1233551371653434
+Yasak Elma,Rise–Fall–Rise,12,Chile,"October 24, 2022",0,South America,0.5071435,0.9162254294559404
+Yasak Elma,Rise–Fall–Rise,13,Spain,"February 19, 2023",0,Europe,0.7732433,0.2640219694512341
+Yasak Elma,Rise–Fall–Rise,15,Argentina,"July 8, 2024",0,South America,0.4332813,0.8508386475808689
+Yasak Elma,Rise–Fall–Rise,5,India,"July 26, 2018",0,Asia,0.0793723,0.33051190066537
+Yasak Elma,Rise–Fall–Rise,8,Mexico,"January 11, 2021",0,North America,0.4145935,0.9646369383912728
+Yasak Elma,Rise–Fall–Rise,9,Peru,"March 2, 2022",0,South America,0.2758466,0.877777612811714
+Yeni Gelin,Fall–Rise,2,United Arab Emirates,"March 12, 2017",1,Asia,0.01,0.1912597721024848
+Yeni Gelin,Fall–Rise,3,Ecuador,"March 12, 2017",1,South America,0.1381429,0.8549951931784503
+Yeni Gelin,Fall–Rise,4,Israel,"March 12, 2017",1,Asia,0.01,0.0612838137293157
+Yeni Gelin,Fall–Rise,5,Australia,"September 30, 2024",1,Oceania,0.7100703,1.0
+Yeni Hayat,Fall–Rise–Fall,2,United Arab Emirates,"November 4, 2021",2,Asia,0.01,0.1912597721024848
+Zalim Istanbul,Rise–Fall–Rise,2,France,"April 1, 2019",0,Europe,0.6693177,0.2295492047563604
+Zalim Istanbul,Rise–Fall–Rise,6,United Arab Emirates,"May 30, 2021",0,Asia,0.01,0.1912597721024848
+Zalim Istanbul,Rise–Fall–Rise,7,Ecuador,"May 30, 2021",0,South America,0.1381429,0.8549951931784503
+Zalim Istanbul,Rise–Fall–Rise,4,United States,"April 1, 2019",0,North America,0.534117,0.7936160860974052
+Zalim Istanbul,Rise–Fall–Rise,10,Philippines,"May 30, 2021",0,Asia,0.1298888,0.6621582412275726
+Zalim Istanbul,Rise–Fall–Rise,11,Singapore,"May 30, 2021",0,Asia,0.230165,0.583682754347835
+Zalim Istanbul,Rise–Fall–Rise,12,Thailand,"May 30, 2021",0,Asia,0.3391781,0.5240321081565626
+Zalim Istanbul,Rise–Fall–Rise,13,Vietnam,"September 25, 2024",0,Asia,0.377932,0.5444555123376184
+Zalim Istanbul,Rise–Fall–Rise,5,Spain,"December 9, 2020",0,Europe,0.7732433,0.2640219694512341
+Zalim Istanbul,Rise–Fall–Rise,8,Indonesia,"May 30, 2021",0,Asia,0.0833755,0.6296538091518518
+Zalim Istanbul,Rise–Fall–Rise,9,India,"May 30, 2021",0,Asia,0.0793723,0.33051190066537
+Zemheri,Fall–Rise–Fall,2,France,"January 15, 2020",2,Europe,0.6693177,0.2295492047563604
+Zemheri,Fall–Rise–Fall,6,Indonesia,"January 18, 2020",2,Asia,0.0833755,0.6296538091518518
+Zemheri,Fall–Rise–Fall,7,Philippines,"June 17, 2020",2,Asia,0.1298888,0.6621582412275726
+Zemheri,Fall–Rise–Fall,4,Egypt,"January 16, 2020",2,Africa,0.3713828,0.0723007485139661
+Zemheri,Fall–Rise–Fall,5,India,"January 16, 2020",2,Asia,0.0793723,0.33051190066537
+Zemheri,Fall–Rise–Fall,8,United Arab Emirates,"June 18, 2020",2,Asia,0.01,0.1912597721024848
+Ömer,Fall–Rise–Fall,1,France,"January 9, 2023",2,Europe,0.6693177,0.2295492047563604
+Ömer,Fall–Rise–Fall,3,United Arab Emirates,"January 10, 2023",2,Asia,0.01,0.1912597721024848
+Ömer,Fall–Rise–Fall,6,India,"January 10, 2023",2,Asia,0.0793723,0.33051190066537
+Ömer,Fall–Rise–Fall,7,United Kingdom,"June 10, 2023",2,Europe,0.6967751,0.2524422168955692
+Ömer,Fall–Rise–Fall,4,Australia,"January 10, 2023",2,Oceania,0.7100703,1.0
+Ömer,Fall–Rise–Fall,5,Egypt,"January 10, 2023",2,Africa,0.3713828,0.0723007485139661
